@@ -68,8 +68,8 @@ produce:will visit a temple or shrine to pray:おまいり（を）する:12
 listen:omairishimashou/お参りしましょう:let's visit (a temple or shrine)/おまいりしましょう:12
 produce:simple; easy:なんたんな:12
 listen:kantanna/かんたんな:simple; easy/かんたんな:12
-produce:impossible; unreasonable:もりな:12
-listen:murina/無理な:impossible; unreasonable/もりな:12
+produce:impossible; unreasonable:むりな:12
+listen:murina/無理な:impossible; unreasonable/むりな:12
 produce:dangerous:あぶない:12
 listen:abunai/危ない:dangerous/あぶない:12
 produce:slow; late:おそい:12
