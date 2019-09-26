@@ -1,0 +1,150 @@
+- file: sentence000.mp3
+  kana: 第１２か
+  meaning: Chapter 12
+  speaker: [host]
+  role: lesson:number
+- file: sentence001.mp3
+  kana: おみこしをかつぐのは大へんなんですよ
+  meaning: It is difficult to carry a portable shrine on your shoulders!
+  speaker: [host]
+  role: lesson:title
+- file: sentence002.mp3
+  kana: 会話１
+  meaning: Dialog 1
+  speaker: [host]
+  role: index
+- file: sentence003.mp3
+  kana: まつりの日
+  meaning: Festival Day
+  speaker: [host]
+  role: title
+- file: sentence004.mp3
+  kana: 今日はまつりの日です。
+  meaning: Today is festival day.
+  speaker: [narrator]
+  role: intro
+- file: sentence005.mp3
+  kana: まつりの日には男の人も女の人もおみこしをかつぎます。
+  meaning: On festival days, men and women both carry a portable shrine on their shoulders.
+  speaker: [narrator]
+  role: intro
+- file: sentence006.mp3
+  kana: そして、大ぜいの人がおみこしをみに行きます。
+  meaning: Also, many people go to see the shrine.
+  speaker: [narrator]
+  role: intro
+- file: sentence007.mp3
+  kana: ワッショイ、ワッショイ。
+  meaning: Heave! Heave!
+  speaker: [extras]
+  role: immersion
+- file: sentence008.mp3
+  kana: ジョンさん、おみこしが来ますよ。
+  meaning: John, here comes the shrine.
+  speaker: 山本
+  role: speech
+- file: sentence009.mp3
+  kana: あぶないから、後ろへさがりましょう。
+  meaning: It's dangerous, so let's step back.
+  speaker: 山本
+  role: speech
+- file: sentence010.mp3
+  kana: あ、
+  meaning: Oh.
+  speaker: ジョン
+  role: speech
+- file: sentence011.mp3
+  kana: あれがおみこしですか。
+  meaning: Is that the shrine?
+  speaker: ジョン
+  role: speech
+- file: sentence012.mp3
+  kana: りっぱですね。
+  meaning: It's magnificent, isn't it.
+  speaker: ジョン
+  role: speech
+- file: sentence013.mp3
+  kana: でも、
+  meaning: But,
+  speaker: ジョン
+  role: speech
+- file: sentence014.mp3
+  kana: みんな男の人なんですね。
+  meaning: They're all men, aren't they?
+  speaker: ジョン
+  role: speech
+- file: sentence015.mp3
+  kana: 女の人ではいけないんですか。
+  meaning: Are women not allowed?
+  speaker: ジョン
+  role: speech
+- file: sentence016.mp3
+  kana: いえ、女せいでもいいんですよ。
+  meaning: No, women are allowed.
+  speaker: 山本
+  role: speech
+- file: sentence017.mp3
+  kana: でも、あのおみこしは大きいから、おもくて、女せいには　たぶんちょっとむりなんですね。
+  meaning: But because that shrine is big, it is heavy and probably a bit difficult for women to carry I suppose.
+  speaker: 山本
+  role: speech
+- file: sentence018.mp3
+  kana: おみこしをかつぐのは大へんなんですよ。
+  meaning: Carrying a shrine is hard!
+  speaker: 山本
+  role: speech
+- file: sentence019.mp3
+  kana: 山本さんも毎年かつぐんですか。
+  meaning: Do you also carry a shrine every year?
+  speaker: ジョン
+  role: speech
+- file: sentence020.mp3
+  kana: まあ、毎年じゃないですけどね。
+  meaning: Well, not every year though I suppose.
+  speaker: 山本
+  role: speech
+- file: sentence021.mp3
+  kana: かざりがたくさんついていて、きれいですね。
+  meaning: A lot of ornaments are attached so it's pretty isn't it?
+  speaker: ジョン
+  role: speech
+- file: sentence022.mp3
+  kana: もっとそばで　じっくりおみこしを　みてみたいですね。
+  meaning: I want to try for a proper look at the shrine by getting closer.
+  speaker: ジョン
+  role: speech
+- file: sentence023.mp3
+  kana: 大じょうぶです。
+  meaning: It's fine.
+  speaker: 山本
+  role: speech
+- file: sentence024.mp3
+  kana: また見ることができますよ。
+  meaning: You will be able to see it again.
+  speaker: 山本
+  role: speech
+- file: sentence025.mp3
+  kana: おみこしは神社にもどりますから、後で見に行きましょう。
+  meaning: Because the shrine will return to the shrine, let's go look at it later.
+  speaker: 山本
+  role: speech
+- file: sentence026.mp3
+  kana: そして、ゆっくり　神社にもおまいりしましょう。
+  meaning: And let's spend more time visiting at the shrine.
+  speaker: 山本
+  role: speech
+- file: sentence027.mp3
+  kana: 二人は神社におまいりしました。
+  meaning: The two of them visited the shrine.
+  speaker: narrator
+  role: closing
+- file: sentence028.mp3
+  kana: おさいせんをあげて、おみくじもひきました。
+  meaning: They gave offerings and also drew fortune slips.
+  speaker: narrator
+  role: closing
+- file: sentence029.mp3
+  kana: 大きちでした。
+  meaning: They (drawn fortunes) were very good luck.
+  speaker: narrator
+  role: closing
