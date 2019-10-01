@@ -138,13 +138,13 @@ function addBeat(beat, host) {
         p.appendChild(span);
     }
     {
-        let a = document.createElement("a");
-        a.href = "#" + id;
-        a.onclick = function () {
+        let trigger = document.createElement("button");
+        trigger.href = "#" + id;
+        trigger.onclick = function () {
             play(phrase)
         };
-        a.appendChild(document.createTextNode(beat["kana"]));
-        p.appendChild(a);
+        trigger.appendChild(document.createTextNode(beat["kana"]));
+        p.appendChild(trigger);
     }
     host.appendChild(p);
 }
