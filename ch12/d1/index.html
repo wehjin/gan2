@@ -2,127 +2,53 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>まつりの日 Shadow Exercise</title>
+    <title>Dialog 1 [ Lesson 12 ]</title>
 </head>
 <body>
-<script>
-    function play(segment) {
-        const snd = document.getElementById("player");
-        snd.src = segment;
-        snd.play();
-        return true;
+<h2 id="loading">Loading&hellip;</h2>
+<div id="content">
+    <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
+    <p>
+        <button id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">Play At &frac34 Speed</button>
+    </p>
+    <h2>
+        <a href="#sentence1" onclick="play(3)" title="Festival Day">まつりの日</a>
+    </h2>
+    <div id="beats"></div>
+</div>
+<p>
+    <button onclick="playAll()">Play Entire Dialog</button>
+</p>
+<div>
+    <audio id="player"
+           src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_1.mp3"
+           controls preload="auto"></audio>
+</div>
+<script type="text/javascript" src="../phrases_common.js"></script>
+<script type="text/javascript" src="../beats_common.js"></script>
+<script type="text/javascript" src="phrases.js"></script>
+<script type="text/javascript" src="beats.js"></script>
+<script type="text/javascript">
+    function flipTo(toDiv, fromDiv) {
+        toDiv.style.display = "block";
+        fromDiv.style.display = "none";
+    }
+
+    function showContent() {
+        const loadingDiv = document.getElementById("loading");
+        const contentDiv = document.getElementById("content");
+        flipTo(contentDiv, loadingDiv)
+    }
+
+    const loadingDiv = document.getElementById("loading");
+    const contentDiv = document.getElementById("content");
+    flipTo(loadingDiv, contentDiv);
+    addBeats(document.getElementById("beats"));
+    const aud = document.getElementById("player");
+    aud.oncanplaythrough = showContent;
+    if (aud.readyState > 3) {
+        showContent();
     }
 </script>
-<p>
-    Shadow each section of audio. Overlap speech with audio. Mimic tone, shape, and duration.
-</p>
-<audio id="player" src="sentence003.mp3" controls preload="auto"></audio>
-<h2>
-    <a href="#sentence003" onclick="play('sentence003.mp3')" title="Festival Day">まつりの日</a> Shadow Exercise
-</h2>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence004" onclick="play('sentence004.mp3')">今日はまつりの日です。</a>
-</p>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence005" onclick="play('sentence005.mp3')">まつりの日には男の人も女の人もおみこしをかつぎます。</a>
-</p>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence006" onclick="play('sentence006.mp3')">そして、大ぜいの人がおみこしをみに行きます。</a>
-</p>
-<p>
-    <span class="speaker">environment:</span>
-    <a href="#sentence007" onclick="play('sentence007.mp3')">ワッショイ、ワッショイ。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence008" onclick="play('sentence008.mp3')">ジョンさん、おみこしが来ますよ。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence009" onclick="play('sentence009.mp3')">あぶないから、後ろへさがりましょう。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence010" onclick="play('sentence010.mp3')">あ、</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence011" onclick="play('sentence011.mp3')">あれがおみこしですか。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence012" onclick="play('sentence012.mp3')">りっぱですね。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence013" onclick="play('sentence013.mp3')">でも、</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence014" onclick="play('sentence014.mp3')">みんな男の人なんですね。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence015" onclick="play('sentence015.mp3')">女の人ではいけないんですか。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence016" onclick="play('sentence016.mp3')">いえ、女せいでもいいんですよ。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence017" onclick="play('sentence017.mp3')">でも、あのおみこしは大きいから、おもくて、女せいには　たぶんちょっとむりなんですね。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence018" onclick="play('sentence018.mp3')">おみこしをかつぐのは大へんなんですよ。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence019" onclick="play('sentence019.mp3')">山本さんも毎年かつぐんですか。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence020" onclick="play('sentence020.mp3')">まあ、毎年じゃないですけどね。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence021" onclick="play('sentence021.mp3')">かざりがたくさんついていて、きれいですね。</a>
-</p>
-<p>
-    <span class="speaker">ジョン:</span>
-    <a href="#sentence022" onclick="play('sentence022.mp3')">もっとそばで　じっくりおみこしを　みてみたいですね。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence023" onclick="play('sentence023.mp3')">大じょうぶです。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence024" onclick="play('sentence024.mp3')">また見ることができますよ。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence025" onclick="play('sentence025.mp3')">おみこしは神社にもどりますから、後で見に行きましょう。</a>
-</p>
-<p>
-    <span class="speaker">山本:</span>
-    <a href="#sentence026" onclick="play('sentence026.mp3')">そして、ゆっくり　神社にもおまいりしましょう。</a>
-</p>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence027" onclick="play('sentence027.mp3')">二人は神社におまいりしました。</a>
-</p>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence028" onclick="play('sentence028.mp3')">おさいせんをあげて、おみくじをひきました。</a>
-</p>
-<p>
-    <span class="speaker">narrator:</span>
-    <a href="#sentence029" onclick="play('sentence029.mp3')">大きちでした。</a>
-</p>
 </body>
 </html>

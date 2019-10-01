@@ -1,3 +1,4 @@
+// audioslice silence duration parameter: 0.420
 const phrases = [
     {
         "href": "#sentence000", "onclick": "play(0, 1.15365, 2.04279)",
