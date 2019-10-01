@@ -5,7 +5,10 @@
     <title>Dialog 1 [ Lesson 12 ]</title>
 </head>
 <body>
-<h2 id="loading">Loading&hellip;</h2>
+<div id="loading">
+    <h2>Loading audio file.</h2>
+    <p>Please wait. This may take a minute&hellip;</p>
+</div>
 <div id="content">
     <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
     <p>
@@ -16,33 +19,35 @@
     </h2>
     <div id="beats"></div>
 </div>
-<p>
-    <button onclick="playAll()">Play Entire Dialog</button>
-</p>
-<div>
-    <audio id="player"
-           src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_1.mp3"
-           controls preload="auto"></audio>
+<div id="playbox">
+    <p>
+        <button onclick="playAll()">Play Entire Dialog</button>
+    </p>
+    <div>
+        <audio id="player"
+               src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_1q.mp3"
+               controls preload="auto"></audio>
+    </div>
 </div>
 <script type="text/javascript" src="../phrases_common.js"></script>
 <script type="text/javascript" src="../beats_common.js"></script>
 <script type="text/javascript" src="phrases.js"></script>
 <script type="text/javascript" src="beats.js"></script>
 <script type="text/javascript">
-    function flipTo(toDiv, fromDiv) {
-        toDiv.style.display = "block";
-        fromDiv.style.display = "none";
+
+    function showLoading() {
+        document.getElementById("loading").style.display = "block";
+        document.getElementById("content").style.display = "none";
+        document.getElementById("playbox").style.visibility = "hidden";
     }
 
     function showContent() {
-        const loadingDiv = document.getElementById("loading");
-        const contentDiv = document.getElementById("content");
-        flipTo(contentDiv, loadingDiv)
+        document.getElementById("loading").style.display = "none";
+        document.getElementById("content").style.display = "block";
+        document.getElementById("playbox").style.visibility = "visible";
     }
 
-    const loadingDiv = document.getElementById("loading");
-    const contentDiv = document.getElementById("content");
-    flipTo(loadingDiv, contentDiv);
+    showLoading();
     addBeats(document.getElementById("beats"));
     const aud = document.getElementById("player");
     aud.oncanplaythrough = showContent;
