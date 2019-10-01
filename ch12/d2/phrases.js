@@ -244,3 +244,17 @@ function playAll() {
         }
     }
 }
+
+var buttonText;
+
+function toggleSpeed(id, slowRate) {
+    let button = document.getElementById(id);
+    if (player.playbackRate >= 1.0) {
+        player.playbackRate = slowRate;
+        buttonText = button.innerText;
+        button.innerText = "Return To Full Speed";
+    } else {
+        player.playbackRate = 1.0;
+        button.innerText = buttonText;
+    }
+}

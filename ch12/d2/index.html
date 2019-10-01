@@ -11,6 +11,9 @@
         Shadow: <a href="#sentence1" onclick="play(1)" title="Bon Dance">盆踊り</a>
     </h2>
     <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
+    <p>
+        <button id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">Play At &frac34 Speed</button>
+    </p>
     <div id="beats"></div>
 </div>
 <p>
@@ -29,14 +32,21 @@
         fromDiv.style.display = "none";
     }
 
+    function showContent() {
+        const loadingDiv = document.getElementById("loading");
+        const contentDiv = document.getElementById("content");
+        flipTo(contentDiv, loadingDiv)
+    }
+
     const loadingDiv = document.getElementById("loading");
     const contentDiv = document.getElementById("content");
     flipTo(loadingDiv, contentDiv);
     addBeats(document.getElementById("beats"));
     const aud = document.getElementById("player");
-    aud.oncanplaythrough = function () {
-        flipTo(contentDiv, loadingDiv)
-    };
+    aud.oncanplaythrough = showContent;
+    if (aud.readyState > 3) {
+        showContent();
+    }
 </script>
 </body>
 </html>
