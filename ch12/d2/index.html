@@ -3,27 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>Dialog 2 Shadow Exercise</title>
-    <script>
-        function play(segment) {
-            const snd = document.getElementById("player");
-            snd.src = segment;
-            snd.play();
-            return true;
-        }
-
-        function flipTo(toDiv, fromDiv) {
-            toDiv.style.display = "block"
-            fromDiv.style.display = "none"
-        }
-    </script>
 </head>
 <body>
 <audio id="player"
        src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_2.mp3"
        controls preload="auto"></audio>
+<script type="text/javascript" src="phrases.js"></script>
+<script type="text/javascript">
+    function flipTo(toDiv, fromDiv) {
+        toDiv.style.display = "block"
+        fromDiv.style.display = "none"
+    }
+</script>
 <h2 id="loading">Loading...</h2>
 <div id="content">
-    <p>Shadow the dialog. Play a segment and speak along with it. Mimic tone, shape, and duration. Start when audio starts.</p>
+    <p>Shadow the dialog. Speak each phrase in time with the audio and mimic tone, shape, and duration.</p>
 </div>
 <script>
     const loadingDiv = document.getElementById("loading");
