@@ -229,3 +229,18 @@ function play(index) {
     player.play();
     console.log('play', index);
 }
+
+function playAll() {
+    if (player.ontimeupdate != null) {
+        player.pause();
+        player.ontimeupdate = null;
+        player.currentTime = 0;
+        player.play();
+    } else {
+        if (player.paused) {
+            player.play()
+        } else {
+            player.pause()
+        }
+    }
+}

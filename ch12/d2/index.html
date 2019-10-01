@@ -5,9 +5,22 @@
     <title>Dialog 2 Shadow Exercise</title>
 </head>
 <body>
-<audio id="player"
-       src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_2.mp3"
-       controls preload="auto"></audio>
+<h2 id="loading">Loading&hellip;</h2>
+<div id="content">
+    <h2>
+        Shadow: <a href="#sentence1" onclick="play(1)" title="Bon Dance">盆踊り</a>
+    </h2>
+    <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
+    <div id="beats"></div>
+</div>
+<p>
+    <button onclick="playAll()">Play Entire Dialog</button>
+</p>
+<div>
+    <audio id="player"
+           src="https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/14cd12/ch12_02_dia_part_2.mp3"
+           controls preload="auto"></audio>
+</div>
 <script type="text/javascript" src="phrases.js"></script>
 <script type="text/javascript" src="beats.js"></script>
 <script type="text/javascript">
@@ -15,19 +28,11 @@
         toDiv.style.display = "block";
         fromDiv.style.display = "none";
     }
-</script>
-<h2 id="loading">Loading...</h2>
-<div id="content">
-    <p>Shadow the dialog. Speak along with audio. Mimic tone, shape, and duration.</p>
-    <h2>
-        <a href="#sentence1" onclick="play(1)" title="Bon Dance">盆踊り</a>
-    </h2>
-</div>
-<script>
+
     const loadingDiv = document.getElementById("loading");
     const contentDiv = document.getElementById("content");
     flipTo(loadingDiv, contentDiv);
-    addBeats(contentDiv);
+    addBeats(document.getElementById("beats"));
     const aud = document.getElementById("player");
     aud.oncanplaythrough = function () {
         flipTo(contentDiv, loadingDiv)
