@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Dialog 1 [ Lesson 12 ]</title>
+    <script type="text/javascript" src="../../load_common.js"></script>
 </head>
 <body>
 <div id="loading">
-    <h2>Loading audio file.</h2>
-    <p>Please wait. This may take a minute&hellip;</p>
+    <h2 id="loadingTitle">Loading audio file.</h2>
+    <p id="loadingSubtitle">Please wait after signing in. This may take a minute&hellip;</p>
 </div>
 <div id="content">
     <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
@@ -31,26 +32,7 @@
 <script type="text/javascript" src="phrases.js"></script>
 <script type="text/javascript" src="beats.js"></script>
 <script type="text/javascript">
-
-    function showLoading() {
-        document.getElementById("loading").style.display = "block";
-        document.getElementById("content").style.display = "none";
-        document.getElementById("playbox").style.visibility = "hidden";
-    }
-
-    function showContent() {
-        document.getElementById("loading").style.display = "none";
-        document.getElementById("content").style.display = "block";
-        document.getElementById("playbox").style.visibility = "visible";
-    }
-
-    showLoading();
-    addBeats(document.getElementById("beats"));
-    const aud = document.getElementById("player");
-    aud.oncanplaythrough = showContent;
-    if (aud.readyState > 3) {
-        showContent();
-    }
+    beginShadowLoad();
 </script>
 </body>
 </html>
