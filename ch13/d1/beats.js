@@ -1,1 +1,69 @@
-const beats = [];
+const beats = [{
+    "kana": "クラークさんの国は　アメリカで、",
+    "speaker": "narrator",
+    "phrase": 6,
+}, {
+    "kana": "今、西かいがんの　シアトルに住んでいますが、",
+    "speaker": "narrator",
+    "phrase": 7,
+}, {
+    "kana": "よく　会ぎで東京に出ちょうします。",
+    "speaker": "narrator",
+    "phrase": 8
+}, {
+    "kana": "今度は休みをとって、",
+    "speaker": "narrator",
+    "phrase": 9
+}, {
+    "kana": "九州か北海道に旅行したいんですが、",
+    "speaker": "narrator",
+    "phrase": 10
+}, {
+    "kana": "よくわかりません。",
+    "speaker": "narrator",
+    "phrase": 11
+}, {
+    "kana": "それで、",
+    "speaker": "narrator",
+    "phrase": 12
+}, {
+    "kana": "会社のひる休みにどうりょうの林さんにそうだんしました。",
+    "speaker": "narrator",
+    "phrase": 13
+}, {
+    "kana": "来月また東京で会ぎなんです。",
+    "speaker": "クラーク",
+    "phrase": 14
+}, {
+    "kana": "それで、その後ー週間ぐらい九州か北海道に旅行したいんです。",
+    "speaker": "クラーク",
+    "phrase": 15
+}, {
+    "kana": "それはいいかんがえですね。",
+    "speaker": "林",
+    "phrase": 16
+}, {
+    "kana": "クラークさんはいつも東京だけですからね。",
+    "speaker": "林",
+    "phrase": 17
+}, {
+    "kana": "ええ、そうなんですよ。",
+    "speaker": "クラーク",
+    "phrase": 18
+}, {
+    "kana": "林さん、",
+    "speaker": "クラーク",
+    "phrase": 19
+}, {
+    "kana": "九州と北海道とではどちらのほうがいいですか。",
+    "speaker": "クラーク",
+    "phrase": 20
+}, {
+    "kana": "そうですね。",
+    "speaker": "林",
+    "phrase": 21
+}, {
+    "kana": "今はもう北はさむいですよ。",
+    "speaker": "林",
+    "phrase": 22
+}];
