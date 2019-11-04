@@ -1,6 +1,13 @@
-const player = document.getElementById('player');
+let player;
+
+function initPlayer() {
+    if (!player) {
+        player = document.getElementById('player');
+    }
+}
 
 function play(index) {
+    initPlayer();
     let phrase = phrases[index];
     let startTime = phrase["start"];
     let endTime = phrase["end"];
@@ -18,6 +25,7 @@ function play(index) {
 }
 
 function playAll() {
+    initPlayer();
     if (player.ontimeupdate != null) {
         player.pause();
         player.ontimeupdate = null;
@@ -32,9 +40,10 @@ function playAll() {
     }
 }
 
-var buttonText;
+let buttonText;
 
 function toggleSpeed(id, slowRate) {
+    initPlayer();
     let button = document.getElementById(id);
     if (player.playbackRate >= 1.0) {
         player.playbackRate = slowRate;

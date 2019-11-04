@@ -24,3 +24,20 @@ function beginShadowLoad() {
         showContent();
     }
 }
+
+function render(context) {
+    window.document.title = `Dialog ${context.number} [ Lesson ${context.lesson}]`;
+    const request = new XMLHttpRequest();
+    request.onreadystatechange = function () {
+        if (this.readyState === 4 && this.status === 200) {
+            const source = this.responseText;
+            console.log(`Source: ${source}`);
+            const template = Handlebars.compile(source);
+            const html = template(context);
+            document.body.insertAdjacentHTML('beforeend', html);
+            beginShadowLoad();
+        }
+    };
+    request.open("GET", "../../dialog_template.html", true);
+    request.send();
+}

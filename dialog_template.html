@@ -1,0 +1,19 @@
+<div id="loading">
+    <h2 id="loadingTitle">Loading audio file.</h2>
+    <p id="loadingSubtitle">Please wait after signing in. This may take a minute&hellip;</p>
+</div>
+<div id="content">
+    <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
+    <p>
+        <button id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">Play At &frac34 Speed</button>
+    </p>
+    <h2>
+        <a href="#sentence1" onclick="play({{title_clip}})" title="{{english_title}}">{{japanese_title}}</a>
+    </h2>
+    <div id="beats"></div>
+</div>
+<div id="playbox">
+    <div>
+        <audio id="player" src="{{audio_source}}" preload="auto"></audio>
+    </div>
+</div>
