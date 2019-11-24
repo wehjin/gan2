@@ -1,0 +1,159 @@
+- type: produce
+  prompt: Africa
+  response: アフリカ
+- type: produce
+  prompt: resort area SW of Tokyo
+  response: いず
+- type: produce
+  prompt: internet
+  response: インターネット
+- type: produce
+  prompt: song
+  response: うた
+- type: produce
+  prompt: movie star
+  response: えいがスター
+- type: produce
+  prompt: Egypt
+  response: エジプト
+- type: produce
+  prompt: I
+  promptDetail: for men in very casual form
+  response: ぼく
+- type: produce
+  prompt: game center
+  promptDetail: abbreviated form
+  response: ゲーセン
+- type: produce
+  prompt: game center
+  promptDetail: long form
+  response: ゲームセンター
+- type: produce
+  prompt: experience
+  promptDetail: noun, abstract
+  response: けいけん
+- type: produce
+  prompt: Japanese wooden clogs
+  response: げた
+- type: produce
+  prompt: best
+  response: さいこう
+- type: produce
+  prompt: stroll
+  promptDetail: noun
+  response: さんぽ
+- type: produce
+  prompt: reputation
+  response: ひょうばん
+- type: produce
+  prompt: blowfish
+  response: ふぐ
+- type: produce
+  prompt: culture
+  response: ぶんか
+- type: produce
+  prompt: UFO
+  response: ユーフォー
+- type: produce
+  prompt: love letter
+  response: ラブレター
+- type: produce
+  prompt: inn
+  promptDetail: Japanese style
+  response: りょかん
+- type: produce
+  prompt: open-air bath
+  response: ろてんぶろ
+- type: produce
+  prompt: we
+  response: 私たち
+- type: produce
+  prompt: remember
+  response: おぼえる
+  responseDetail: おぼえます
+- type: produce
+  prompt: get tired
+  response: つかれる
+  responseDetail: つかれます
+- type: produce
+  prompt: meet; see (someone)
+  response: 会う
+  responseDetail: に　あいます
+- type: produce
+  prompt: walk
+  promptDetail: verb
+  response: あるく
+- type: produce
+  prompt: stay; lodge
+  response: とまる
+  responseDetail: place に　泊まります
+- type: produce
+  prompt: exercise
+  response: エクササイズをする
+- type: produce
+  prompt: experience
+  promptDetail: verb, abstract
+  response: けいけんをする
+- type: produce
+  prompt: stroll; take a walk
+  response: さんぽをする
+- type: produce
+  prompt: invite
+  response: しょうたいする
+  responseDetail: person を place に　招待します
+- type: produce
+  prompt: jog
+  response: ジョギングをする
+- type: produce
+  prompt: clean
+  promptDetail: verb
+  response: そうじをする
+- type: produce
+  prompt: experience
+  promptDetail: verb, first-hand
+  response: たいけんをする
+- type: produce
+  prompt: diet
+  response: ダイエットをする
+- type: produce
+  prompt: hurt; ache
+  response: いたい
+- type: produce
+  prompt: be embarrassed
+  response: はずかしい
+- type: produce
+  prompt: on ahead
+  response: 先に
+  responseDetail: さきに
+- type: produce
+  prompt: very
+  promptDetail: colloquial
+  response: とっても
+- type: produce
+  prompt: etc.
+  response: など
+- type: produce
+  prompt: not even once; never
+  response: ーども
+- type: produce
+  prompt: to put it shortly/simply
+  response: かんたんに言えば
+- type: produce
+  prompt: like this, this kind of
+  response: こんな
+- type: produce
+  prompt: not anyone; no one
+  response: だれも
+- type: produce
+  prompt: by the way
+  response: ところで
+- type: produce
+  prompt: for a long time
+  response: ながい間
+  responseDetail: ながいあいだ
+- type: produce
+  prompt: It's been a long time.
+  response: ひさしぶりです
+- type: produce
+  prompt: after a long time
+  response: ひさしぶりに
