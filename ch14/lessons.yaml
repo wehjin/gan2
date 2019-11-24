@@ -19,7 +19,8 @@
 - type: produce
   prompt: I
   promptDetail: for men in very casual form
-  response: ぼく
+  response: おれ
+  responseDetail: 俺
 - type: produce
   prompt: game center
   promptDetail: abbreviated form
