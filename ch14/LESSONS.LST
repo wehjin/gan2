@@ -19,7 +19,7 @@ produce:love letter:ラブレター:14
 produce:inn/Japanese style:りょかん:14
 produce:open-air bath:ろてんぶろ:14
 produce:we:私たち:14
-produce:remember:おぼえる/おぼえます:14
+produce:memorize:おぼえる/おぼえます:14
 produce:get tired:つかれる/つかれます:14
 produce:meet; see (someone):会う/に　あいます:14
 produce:walk/verb:あるく:14
@@ -75,3 +75,35 @@ cloze:どんなでん{wa}を持っていますか。:話/どんな電話を持�
 cloze:五{fun}まってください。:分/五分待ってください。:14
 cloze:はん{bun}だけください:分/半分だけください。:14
 cloze:五時十{pun}に着きます。:分/五時十分に着きます。:14
+cloze:見る。見{ta-form}。:た/見る。見た。:14
+cloze:買う。買{ta-form}。:った/買う。買った。:14
+cloze:まつ。ま{ta-form}。:った/まつ。まった。:14
+cloze:ふる。ふ{ta-form}。:った/ふる。ふった。:14
+cloze:読む。読{ta-form}。:んだ/読む。読んだ。:14
+cloze:よろこぶ。よろこ{ta-form}。:んだ/よろこぶ。よろこんだ。:14
+cloze:しぬ。し{ta-form}。:んだ/しぬ。しんた。:14
+cloze:はく。は{ta-form}。:いた/はく。はいた。:14
+cloze:ねぐ。ね{ta-form}。:いだ/ねぐ。ねいだ。:14
+cloze:けす。け{ta-form}。:した/けす。けした。:14
+cloze:くる。く{ta-form}。:た/くる。きた。:14
+cloze:する。{ta-form}。:した/する。した。:14
+cloze:行く。行{ta-form}。:った/行く。行った。:14
+cloze:ゆかたを着{experienced}があります。:たこと/ゆかたを着たことがあります:14
+cloze:ね{doing}と食べ{doing}とでは、:るの/ねるのと食べるのとでは、:14
+cloze:ね{doing}ほうが食べ{doing}より好きです。:る/ねるほうが食べるより好きです。:14
+cloze:ねるのと...、{...}が一番楽しい？:どれ/ねるのと...、どれが一番楽しい？:14
+cloze:何をする{...}一番楽しいですか。:のが/何をするのが一番楽しいですか:14
+cloze:ねるのはうたう{...}楽しくないな。:ほど/ねるのはうたうほど楽しくないな。:14
+cloze:ある{...}がいいです。/you had better walk:いたほう/あるいたほうがいいです/:14
+cloze:知らせ{...}がいいですよ。/you had better NOT inform:ないほう/知らせないほうがいいですよ/:14
+cloze:{none}おいしくないです。:どれも/どれもおいしくないです。:14
+cloze:{nothing}ありません。:何も/何もありません。:14
+cloze:{nowhere}やすくなりですね。:どこも/どこもやすくなりですね。:14
+cloze:{noone}いませんでした。:だれも/だれもいませんでした。:14
+cloze:{no shop}やすくないです。:どのお店も/どのお店もやすくないです。:14
+cloze:３時から５時{until}し事をすました。:まで/３時から５時までし事をすました。:14
+cloze:りょかん{...}とまりました:に/りょかんにとまりました。:14
+cloze:木村さんをおんせん{...}しょうたいしましょうか。:に/木村さんをおんせんにしょうたいしましょうか。:14
+cloze:本やで先生{...}会いました。:に/本やで先生に会いました。:14
+produce:remember:おぼえている:14
+produce:children:子もたち:14
