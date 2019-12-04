@@ -1,0 +1,33 @@
+.my-col {
+    margin: 64px;
+}
+
+.beat {
+    margin: 32px 0;
+}
+
+.bottomrules {
+    max-width: 800px;
+    margin-top: 64px;
+}
+
+.instructions {
+    max-width: 800px;
+}
+
+.centerblock {
+    margin: auto;
+    display: block;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textleft {
+    text-align: left;
+}
+
+.topcontent {
+    margin-top: 32px
+}

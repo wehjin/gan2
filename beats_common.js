@@ -1,24 +1,22 @@
+const template = Handlebars.compile(
+    "<div class=\"beat\" id=\"{{id}}\">" +
+    "<div class=\"speaker mdc-typography--overline\">{{speaker_name}}</div>" +
+    "<button  class=\"mdc-button textleft\" onclick=\"{{click_action}}\">" +
+    "<div class=\"mdc-button__ripple\"></div><span class=\"mdc-button__label\">{{translation}}</span>" +
+    "</button>" +
+    "</div>"
+);
+
 function addBeat(beat, host) {
-    let phrase = beat["phrase"];
-    let id = "sentence" + phrase;
-    let p = document.createElement("p");
-    p.id = id;
-    {
-        let span = document.createElement("span");
-        span.className = "speaker";
-        span.appendChild(document.createTextNode(beat["speaker"] + ": "));
-        p.appendChild(span);
-    }
-    {
-        let trigger = document.createElement("button");
-        trigger.href = "#" + id;
-        trigger.onclick = function () {
-            play(phrase)
-        };
-        trigger.appendChild(document.createTextNode(beat["kana"]));
-        p.appendChild(trigger);
-    }
-    host.appendChild(p);
+    const phrase = beat["phrase"];
+    const context = {
+        "id": "sentence" + phrase,
+        "speaker_name": beat["speaker"],
+        "translation": beat["kana"],
+        "click_action": `play(${phrase})`
+
+    };
+    host.insertAdjacentHTML('beforeend', template(context));
 }
 
 function addBeats(host) {

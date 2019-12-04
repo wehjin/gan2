@@ -1,20 +1,43 @@
-<div id="loading">
-    <h2 id="loadingTitle">Loading audio file.</h2>
-    <p id="loadingSubtitle">Please wait after signing in. This may take a minute&hellip;</p>
-</div>
-<div id="content">
-    <p><i>Begin speaking as soon as audio starts. Mimic tone, shape, and duration.</i></p>
-    <p>
-        <button id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">Play At &frac34 Speed</button>
-    </p>
-    <h2>
-        <a href="#sentence1" onclick="play({{title_clip}})" title="{{english_title}}">{{japanese_title}}</a>
-    </h2>
-    <div id="beats"></div>
-</div>
-<div id="playbox">
-    <div>
-        <audio id="player" src="{{audio_source}}" preload="auto"></audio>
+<div class="my-col">
+    <div id="loading">
+        <h2 class="mdc-typography--headline2" id="loadingTitle">Loading audio file</h2>
+        <div role="progressbar" class="mdc-linear-progress mdc-linear-progress--indeterminate">
+            <div class="mdc-linear-progress__buffering-dots"></div>
+            <div class="mdc-linear-progress__buffer"></div>
+            <div class="mdc-linear-progress__bar mdc-linear-progress__primary-bar">
+                <span class="mdc-linear-progress__bar-inner"></span>
+            </div>
+            <div class="mdc-linear-progress__bar mdc-linear-progress__secondary-bar">
+                <span class="mdc-linear-progress__bar-inner"></span>
+            </div>
+        </div>
+        <h6 class="mdc-typography--subtitle1" id="loadingSubtitle">Please wait. This may take a minute&hellip;</h6>
+    </div>
+    <div id="content">
+        <p class="mdc-typography--subtitle2 instructions">
+            Begin speaking when audio starts. Mimic tone, shape, and duration.
+        </p>
+        <button class="mdc-button" id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">Play At &frac34 Speed</span>
+        </button>
+        <p class="beat topcontent">
+        <div class="speaker mdc-typography--overline">Title</div>
+        <button class="mdc-button mdc-button--outlined textleft "
+                onclick="play({{title_clip}})"
+                title="{{english_title}}">
+            <div class="mdc-button__ripple"></div>
+            <span class="mdc-button__label">{{japanese_title}}</span>
+        </button>
+        </p>
+        <div id="beats"></div>
+    </div>
+    <div id="playbox">
+        <div>
+            <audio id="player" src="{{audio_source}}" preload="auto"></audio>
+        </div>
+    </div>
+    <div class="beat">
+        <i class="mdc-typography--subtitle1">The End</i>
     </div>
 </div>
-<div><i>The End</i></div>
