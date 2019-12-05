@@ -14,23 +14,18 @@
         <h6 class="mdc-typography--subtitle1" id="loadingSubtitle">Please wait. This may take a minute&hellip;</h6>
     </div>
     <div id="content">
-        <p class="mdc-typography--subtitle2 instructions">
-            Begin speaking when audio starts. Mimic tone, shape, and duration.
-        </p>
         <button class="mdc-button" id="rateButton" onclick="toggleSpeed('rateButton', 0.75)">
             <div class="mdc-button__ripple"></div>
             <span class="mdc-button__label">Play At &frac34 Speed</span>
         </button>
-        <p class="beat topcontent">
-        <div class="speaker mdc-typography--overline">Title</div>
-        <button class="mdc-button mdc-button--outlined textleft "
-                onclick="play({{title_clip}})"
-                title="{{english_title}}">
+        <div style="color: var(--mdc-theme-primary,#6200ee)" title="{{english_title}}" onclick="play({{title_clip}})">
             <div class="mdc-button__ripple"></div>
-            <span class="mdc-button__label">{{japanese_title}}</span>
-        </button>
+            <h2 class="mdc-typography--headline2">{{japanese_title}}</h2>
+        </div>
+        <p class="mdc-typography--body2 instructions">
+            Begin speaking when audio starts. Mimic tone, shape, and duration.
         </p>
-        <div id="beats"></div>
+        <div class="topcontent" id="beats"></div>
     </div>
     <div id="playbox">
         <div>
