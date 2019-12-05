@@ -10,7 +10,7 @@ const beats = [
         "phrase": 3,
     },
     {
-        "kana": "今日リンさんははじめて　ぼんおどりに行きます。",
+        "kana": "今日 リンさんは はじめてぼんおどりに行きます。",
         "speaker": "narrator",
         "phrase": 4,
     },
