@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.4.2/handlebars.min.js"></script>
+    <script src="load_common.js" type="text/javascript"></script>
+    <script src="phrases_common.js" type="text/javascript"></script>
+    <script src="beats_common.js" type="text/javascript"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+    <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+    <link href="styles/main.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="mdc-typography">
+<script type="text/javascript">
+    const params = new URLSearchParams(window.location.search)
+    const jsonUrl = params.get('json');
+
+    async function fetchContext() {
+        const response = await fetch(jsonUrl);
+        return await response.json();
+    }
+
+    function renderDialog(spec) {
+
+        function toBeat(line, speaker) {
+            return {
+                "kana": line.kana,
+                "speaker": speaker,
+                "phrase": -1,
+                "startTime": line.start,
+                "endTime": line.end
+            }
+        }
+
+        const beats = spec.parts.flatMap(function (part) {
+            const speaker = part.speaker;
+            return part.lines.map(function (line) {
+                return toBeat(line, speaker)
+            })
+        });
+        console.log("Player beats:", beats);
+        overrideBeats(beats);
+
+        const context = {
+            "lesson": spec.lesson,
+            "number": spec.number,
+            "english_title": spec.title["english"],
+            "japanese_title": spec.title["kana"],
+            "title": spec.title,
+            "title_clip": `-1, ${spec.title.start}, ${spec.title.end}`,
+            "audio_source": spec.audio_source,
+            "template_url": "dialog_template.html"
+        };
+        console.log("Context: ", context);
+        render(context)
+    }
+
+    fetchContext().then(renderDialog);
+</script>
+</body>
+</html>

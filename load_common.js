@@ -38,6 +38,8 @@ function render(context) {
             beginShadowLoad();
         }
     };
-    request.open("GET", "../../dialog_template.html", true);
+    const templateUrl = context["template_url"] || "../../dialog_template.html";
+    console.log(`Template url: $templateUrl`);
+    request.open("GET", templateUrl, true);
     request.send();
 }

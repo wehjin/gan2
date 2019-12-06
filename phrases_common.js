@@ -6,22 +6,30 @@ function initPlayer() {
     }
 }
 
-function play(index) {
+function play(index, explicitStart, explicitEnd) {
+    let startTime = explicitStart;
+    let endTime = explicitEnd;
+    if (index >= 0) {
+        const phrase = phrases[index];
+        startTime = phrase["start"];
+        endTime = phrase["end"];
+    }
+    playTimes(startTime, endTime);
     initPlayer();
-    let phrase = phrases[index];
-    let startTime = phrase["start"];
-    let endTime = phrase["end"];
     player.pause();
     player.currentTime = startTime;
     player.ontimeupdate = function () {
-        let time = player.currentTime;
+        const time = player.currentTime;
         if (time > endTime) {
             player.pause();
             player.currentTime = startTime;
         }
     };
     player.play();
-    console.log('play', index);
+    console.log('play', index, startTime, endTime);
+}
+
+function playTimes(startTime, endTime) {
 }
 
 function playAll() {

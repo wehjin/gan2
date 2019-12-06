@@ -1,13 +1,14 @@
 {
   "silence_parameter": 0.325,
-  "chapter": 14,
-  "dialog": 1,
+  "lesson": 14,
+  "number": 1,
+  "audio_source": "https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/16cd14/02_dialogue_part_1.mp3",
   "title": {
     "start": 9.9877,
     "end": 10.811833,
     "duration": 0.824133,
     "kana": "旅館",
-    "translation": "Japanese Inn",
+    "english": "Japanese Inn",
     "phrase": 4
   },
   "parts": [
@@ -16,31 +17,21 @@
       "lines": [
         {
           "start": 11.9945,
-          "end": 14.160633,
-          "duration": 2.166133,
-          "kana": "アンナさんは学生の時、",
-          "phrase": 5
-        },
-        {
-          "start": 14.3688,
           "end": 17.602633,
-          "duration": 3.233833,
-          "kana": "日本の大学で１年間勉強しました。",
-          "phrase": 6
+          "kana": "アンナさんは学生の時、日本の大学でー年間勉強しました。",
+          "phrase": [
+            5,
+            6
+          ]
         },
         {
           "start": 18.365,
-          "end": 22.168933,
-          "duration": 3.803933,
-          "kana": "今年、その時のクラスメートのゆう子あんを尋ねて、",
-          "phrase": 7
-        },
-        {
-          "start": 22.5186,
           "end": 24.591233,
-          "duration": 2.072633,
-          "kana": "日本に遊びに来ました。",
-          "phrase": 8
+          "kana": "今年、その時のクラスメートのゆう子あんを尋ねて、日本に遊びに来ました。",
+          "phrase": [
+            7,
+            8
+          ]
         },
         {
           "start": 25.2186,
@@ -234,16 +225,10 @@
         },
         {
           "start": 91.4428,
-          "end": 93.186333,
-          "duration": 1.743533,
-          "kana": "ところで、アンナさん、",
-          "phrase": 35
-        },
-        {
-          "start": 93.6731,
           "end": 98.154733,
-          "kana": "ここの温泉は露天風呂ですけど、入ったことがありますか。",
+          "kana": "ところで、アンナさん、ここの温泉は露天風呂ですけど、入ったことがありますか。",
           "phrase": [
+            35,
             36,
             37
           ]
