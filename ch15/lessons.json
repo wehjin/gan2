@@ -1,0 +1,236 @@
+{
+  "level": 15,
+  "produce-listen": [
+    {
+      "from": "baby",
+      "to": "あかちゃん"
+    },
+    {
+      "from": "orchestra",
+      "to": "オーケストラ"
+    },
+    {
+      "from": "empty",
+      "to": "からっぽ"
+    },
+    {
+      "from": "interest (curiosity)",
+      "to": "きょうみ"
+    },
+    {
+      "from": "cargo container",
+      "to": "コンテナ"
+    },
+    {
+      "from": "piece of work; product",
+      "to": "作ひん",
+      "to-more": "さくひん"
+    },
+    {
+      "from": "quality",
+      "to": "しつ",
+      "to-search": "質"
+    },
+    {
+      "from": "main character",
+      "to": "しゅ人こう",
+      "to-more": "しゅじんこう",
+      "to-search": "主人公"
+    },
+    {
+      "from": "throughout the world",
+      "to": "せかい中",
+      "to-more": "せかいじゅう",
+      "to-search": "世界中"
+    },
+    {
+      "from": "exclusive; special",
+      "to": "せんよう",
+      "to-search": "専用"
+    },
+    {
+      "from": "great fan (of someone/thing)",
+      "to": "大ファン",
+      "to-more": "だいファン"
+    },
+    {
+      "from": "My Neighbor Totoro",
+      "to": "となりのトトロ"
+    },
+    {
+      "from": "meat",
+      "to": "にく",
+      "to-search": "肉"
+    },
+    {
+      "from": "beginning",
+      "to": "はじめ"
+    },
+    {
+      "from": "final",
+      "to": "ファイナル"
+    },
+    {
+      "from": "mile",
+      "to": "マイル"
+    },
+    {
+      "from": "Hayao Miyazaki",
+      "to": "みやざきはやお",
+      "to-search": "宮崎駿"
+    },
+    {
+      "from": "message",
+      "to": "メッセージ"
+    },
+    {
+      "from": "menu",
+      "to": "メニュー"
+    },
+    {
+      "from": "japanese chow mein",
+      "to": "やきそば"
+    },
+    {
+      "from": "dream",
+      "to": "ゆめ"
+    },
+    {
+      "from": "artist",
+      "to": "アーティスト"
+    },
+    {
+      "from": "doctor; physician",
+      "to": "いしゃ",
+      "to-search": "医者"
+    },
+    {
+      "from": "singer",
+      "to": "かしゅ",
+      "to-search": "歌手"
+    },
+    {
+      "from": "police officer",
+      "to": "けいかん",
+      "to-search": "警官"
+    },
+    {
+      "from": "chef",
+      "to": "シェフ"
+    },
+    {
+      "from": "player; athlete",
+      "to": "せんしゅ",
+      "to-search": "選手"
+    },
+    {
+      "from": "fashion model",
+      "to": "モデル"
+    },
+    {
+      "from": "sometime",
+      "to": "いつか"
+    },
+    {
+      "from": "someone (anyone, plain)",
+      "to": "だれか"
+    },
+    {
+      "from": "someone (anyone, polite)",
+      "to": "どなたか"
+    },
+    {
+      "from": "weather",
+      "to": "てん気",
+      "to-search": "天気"
+    },
+    {
+      "from": "somewhere",
+      "to": "どこか"
+    },
+    {
+      "from": "one or the other (polite)",
+      "to": "どちらか"
+    },
+    {
+      "from": "one or the other (plain)",
+      "to": "どっちか"
+    },
+    {
+      "from": "something; anything (concrete)",
+      "to": "どれか"
+    },
+    {
+      "from": "something; anything (abstract)",
+      "to": "何か"
+    },
+    {
+      "from": "is (plain)",
+      "to": "だ"
+    },
+    {
+      "from": "come out"
+    },
+    {
+      "from": "begin; start"
+    },
+    {
+      "from": "think"
+    },
+    {
+      "from": "invite; ask"
+    },
+    {
+      "from": "enjoy"
+    },
+    {
+      "from": "make"
+    },
+    {
+      "from": "become"
+    },
+    {
+      "from": "order"
+    },
+    {
+      "from": "utilize; use for"
+    },
+    {
+      "from": "good at; delicious"
+    },
+    {
+      "from": "comfortable; easy"
+    },
+    {
+      "from": "quite; considerably; fairly"
+    },
+    {
+      "from": "steadily one after another"
+    },
+    {
+      "from": "smart; intelligent"
+    },
+    {
+      "from": "very hard; with all one's might"
+    },
+    {
+      "from": "the other day"
+    },
+    {
+      "from": "to tell the truth"
+    },
+    {
+      "from": "come to think of it"
+    },
+    {
+      "from": "that much"
+    },
+    {
+      "from": "I see"
+    },
+    {
+      "from": "all right!"
+    }
+  ]
+}
+
