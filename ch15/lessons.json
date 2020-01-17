@@ -169,67 +169,107 @@
       "to": "だ"
     },
     {
-      "from": "come out"
+      "from": "come out",
+      "to": "出る",
+      "to-more": "でる"
     },
     {
-      "from": "begin; start"
+      "from": "begin; start (transitive)",
+      "to": "はじめる",
+      "to-more": "始めます"
     },
     {
-      "from": "think"
+      "from": "think",
+      "to": "思う",
+      "to-more": "おもう"
     },
     {
-      "from": "invite; ask"
+      "from": "invite; ask",
+      "to": "さそう"
     },
     {
-      "from": "enjoy"
+      "from": "enjoy",
+      "to": "楽しむ",
+      "to-more": "たのしむ"
     },
     {
-      "from": "make"
+      "from": "make",
+      "to": "作る",
+      "to-more": "つくります"
     },
     {
-      "from": "become"
+      "from": "become",
+      "to": "なる"
     },
     {
-      "from": "order"
+      "from": "order",
+      "to": "ちゅうもんする",
+      "to-search": "注文する"
     },
     {
-      "from": "utilize; use for"
+      "from": "utilize; use for",
+      "to": "りようする"
     },
     {
-      "from": "good at; delicious"
+      "from": "good (at); delicious",
+      "to": "うまい"
     },
     {
-      "from": "comfortable; easy"
+      "from": "comfortable; easy",
+      "to": "楽",
+      "to-more": "らく"
     },
     {
-      "from": "quite; considerably; fairly"
+      "from": "quite; considerably; fairly",
+      "to": "だいぶ"
     },
     {
-      "from": "steadily one after another"
+      "from": "steadily one after another",
+      "to": "どんどん"
     },
     {
-      "from": "smart; intelligent"
+      "from": "smart; intelligent",
+      "to": "あたまがいい"
     },
     {
-      "from": "very hard; with all one's might"
+      "from": "very hard; with all one's might",
+      "to": "一生けんめい",
+      "to-more": "いっしょうけんめい",
+      "to-search": "一生懸命"
     },
     {
-      "from": "the other day"
+      "from": "the other day",
+      "to": "その前"
     },
     {
-      "from": "to tell the truth"
+      "from": "to tell the truth",
+      "to": "じつは",
+      "to-search": "実は"
     },
     {
-      "from": "come to think of it"
+      "from": "come to think of it",
+      "to": "そういえば"
     },
     {
-      "from": "that much"
+      "from": "that much",
+      "to": "そんなに"
     },
     {
-      "from": "I see"
+      "from": "I see",
+      "to": "なるほど"
     },
     {
-      "from": "all right!"
+      "from": "all right!",
+      "to": "ようし",
+      "to-search": "よし"
+    }
+  ],
+  "cloze": [
+    {
+      "from": "あのばけもの{about}しんぱいしてください",
+      "to": [
+        "について"
+      ]
     }
   ]
 }
