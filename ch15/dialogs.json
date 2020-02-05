@@ -1,0 +1,823 @@
+[
+  {
+    "title": "カラオケ",
+    "media": "https://www.ccsf.edu/Departments/Language_Center/oll/japanese/ganbaroo_2/17cd15/02_dialogue_part_1.mp3",
+    "beats": [
+      {
+        "description": "karaoke started in japan but",
+        "start": 1
+      },
+      {
+        "description": "it is popular in many countries now",
+        "start": 2
+      },
+      {
+        "description": "kids and adults can enjoy",
+        "start": 3,
+        "end": 4
+      },
+      {
+        "description": "??? karoke's kara is empty kara de",
+        "start": 5
+      },
+      {
+        "description": "??? ok is orchestra's ok",
+        "start": 6
+      },
+      {
+        "description": "The first time, train containers were used to make karaoke boxes.",
+        "start": 7
+      },
+      {
+        "description": "Of course now they are becoming karaoke-exclusive room.",
+        "start": 8
+      },
+      {
+        "description": "simple meals and drinks can also be ordered.",
+        "start": 9
+      },
+      {
+        "description": "lee, do you have any plans tonight?",
+        "start": 10,
+        "end": 11
+      },
+      {
+        "description": "no, nothing in particular...",
+        "start": 12,
+        "end": 13
+      },
+      {
+        "description": "How about karaoki?",
+        "start": 14
+      },
+      {
+        "description": "near the train station a good karaoke bar is walking distance?",
+        "start": 15
+      },
+      {
+        "description": "oh? is it good?",
+        "start": 16
+      },
+      {
+        "description": "to be it shortly, yamamoto and aoki here saw, recently went, they were saying",
+        "start": 17
+      },
+      {
+        "description": "I understand it was very fun.",
+        "start": 18
+      },
+      {
+        "description": "let's invite them and go together.",
+        "start": 19
+      },
+      {
+        "description": "because yamamoto and aoki also didn't have particular plans tonight",
+        "start": 20,
+        "end": 21
+      },
+      {
+        "description": "4 people together went to the new karaoke bar",
+        "start": 22
+      },
+      {
+        "description": "how about drinks?",
+        "start": 25
+      },
+      {
+        "description": "is beer good?",
+        "start": 26
+      },
+      {
+        "description": "yeah, that's good right?",
+        "start": 52
+      },
+      {
+        "description": "after that, should we eat something?",
+        "start": 53
+      },
+      {
+        "description": "this menu's chow mein is delicious-looking. how about it?",
+        "start": 28,
+        "end": 29
+      },
+      {
+        "description": "yes truly, let's order it",
+        "start": 30,
+        "end": 31
+      },
+      {
+        "description": "everyone, today is proceeding. we are not embarrassed",
+        "start": 32,
+        "end": 33
+      },
+      {
+        "description": "alright! today, looks like singing",
+        "start": 34
+      }
+    ],
+    "phrases": [
+      {
+        "index": 0,
+        "start": 2.35433,
+        "end": 3.366553,
+        "duration": 1.012223,
+        "kana": "phrase0",
+        "speaker": "unknown",
+        "phrase": 0
+      },
+      {
+        "index": 1,
+        "start": 3.95608,
+        "end": 6.785783,
+        "duration": 2.829703,
+        "kana": "phrase1",
+        "speaker": "unknown",
+        "phrase": 1
+      },
+      {
+        "index": 2,
+        "start": 7.11401,
+        "end": 9.946483,
+        "duration": 2.832473,
+        "kana": "phrase2",
+        "speaker": "unknown",
+        "phrase": 2
+      },
+      {
+        "index": 3,
+        "start": 10.8599,
+        "end": 11.742433,
+        "duration": 0.882533,
+        "kana": "phrase3",
+        "speaker": "unknown",
+        "phrase": 3
+      },
+      {
+        "index": 4,
+        "start": 11.9496,
+        "end": 15.664133,
+        "duration": 3.714533,
+        "kana": "phrase4",
+        "speaker": "unknown",
+        "phrase": 4
+      },
+      {
+        "index": 5,
+        "start": 16.802,
+        "end": 19.320633,
+        "duration": 2.518633,
+        "kana": "phrase5",
+        "speaker": "unknown",
+        "phrase": 5
+      },
+      {
+        "index": 6,
+        "start": 19.7022,
+        "end": 22.065833,
+        "duration": 2.363633,
+        "kana": "phrase6",
+        "speaker": "unknown",
+        "phrase": 6
+      },
+      {
+        "index": 7,
+        "start": 23.1586,
+        "end": 29.239633,
+        "duration": 6.081033,
+        "kana": "phrase7",
+        "speaker": "unknown",
+        "phrase": 7
+      },
+      {
+        "index": 8,
+        "start": 30.1578,
+        "end": 33.615633,
+        "duration": 3.457833,
+        "kana": "phrase8",
+        "speaker": "unknown",
+        "phrase": 8
+      },
+      {
+        "index": 9,
+        "start": 33.909,
+        "end": 37.844633,
+        "duration": 3.935633,
+        "kana": "phrase9",
+        "speaker": "unknown",
+        "phrase": 9
+      },
+      {
+        "index": 10,
+        "start": 40.6175,
+        "end": 41.531133,
+        "duration": 0.913633,
+        "kana": "phrase10",
+        "speaker": "unknown",
+        "phrase": 10
+      },
+      {
+        "index": 11,
+        "start": 41.882,
+        "end": 44.066033,
+        "duration": 2.184033,
+        "kana": "phrase11",
+        "speaker": "unknown",
+        "phrase": 11
+      },
+      {
+        "index": 12,
+        "start": 44.8772,
+        "end": 45.658533,
+        "duration": 0.781333,
+        "kana": "phrase12",
+        "speaker": "unknown",
+        "phrase": 12
+      },
+      {
+        "index": 13,
+        "start": 45.7843,
+        "end": 47.429933,
+        "duration": 1.645633,
+        "kana": "phrase13",
+        "speaker": "unknown",
+        "phrase": 13
+      },
+      {
+        "index": 14,
+        "start": 48.051,
+        "end": 49.659033,
+        "duration": 1.608033,
+        "kana": "phrase14",
+        "speaker": "unknown",
+        "phrase": 14
+      },
+      {
+        "index": 15,
+        "start": 50.3163,
+        "end": 53.934433,
+        "duration": 3.618133,
+        "kana": "phrase15",
+        "speaker": "unknown",
+        "phrase": 15
+      },
+      {
+        "index": 16,
+        "start": 54.5182,
+        "end": 56.773033,
+        "duration": 2.254833,
+        "kana": "phrase16",
+        "speaker": "unknown",
+        "phrase": 16
+      },
+      {
+        "index": 17,
+        "start": 57.099,
+        "end": 63.623733,
+        "duration": 6.524733,
+        "kana": "phrase17",
+        "speaker": "unknown",
+        "phrase": 17
+      },
+      {
+        "index": 18,
+        "start": 64.3643,
+        "end": 66.049933,
+        "duration": 1.685633,
+        "kana": "phrase18",
+        "speaker": "unknown",
+        "phrase": 18
+      },
+      {
+        "index": 19,
+        "start": 66.6936,
+        "end": 70.521133,
+        "duration": 3.827533,
+        "kana": "phrase19",
+        "speaker": "unknown",
+        "phrase": 19
+      },
+      {
+        "index": 20,
+        "start": 72.5503,
+        "end": 74.502733,
+        "duration": 1.952433,
+        "kana": "phrase20",
+        "speaker": "unknown",
+        "phrase": 20
+      },
+      {
+        "index": 21,
+        "start": 74.6146,
+        "end": 77.620633,
+        "duration": 3.006033,
+        "kana": "phrase21",
+        "speaker": "unknown",
+        "phrase": 21
+      },
+      {
+        "index": 22,
+        "start": 77.9173,
+        "end": 81.557833,
+        "duration": 3.640533,
+        "kana": "phrase22",
+        "speaker": "unknown",
+        "phrase": 22
+      },
+      {
+        "index": 23,
+        "start": 81.8568,
+        "end": 82.197233,
+        "duration": 0.340433,
+        "kana": "phrase23",
+        "speaker": "unknown",
+        "phrase": 23
+      },
+      {
+        "index": 24,
+        "start": 82.2858,
+        "end": 82.619133,
+        "duration": 0.333333,
+        "kana": "phrase24",
+        "speaker": "unknown",
+        "phrase": 24
+      },
+      {
+        "index": 25,
+        "start": 82.8277,
+        "end": 84.316033,
+        "duration": 1.488333,
+        "kana": "phrase25",
+        "speaker": "unknown",
+        "phrase": 25
+      },
+      {
+        "index": 26,
+        "start": 84.4434,
+        "end": 85.538833,
+        "duration": 1.095433,
+        "kana": "phrase26",
+        "speaker": "unknown",
+        "phrase": 26
+      },
+      {
+        "index": 27,
+        "start": 85.8801,
+        "end": 89.003833,
+        "duration": 3.123733,
+        "kana": "phrase27",
+        "speaker": "unknown",
+        "phrase": 27
+      },
+      {
+        "index": 28,
+        "start": 90.4904,
+        "end": 93.266033,
+        "duration": 2.775633,
+        "kana": "phrase28",
+        "speaker": "unknown",
+        "phrase": 28
+      },
+      {
+        "index": 29,
+        "start": 93.4426,
+        "end": 94.154633,
+        "duration": 0.712033,
+        "kana": "phrase29",
+        "speaker": "unknown",
+        "phrase": 29
+      },
+      {
+        "index": 30,
+        "start": 94.6265,
+        "end": 95.937533,
+        "duration": 1.311033,
+        "kana": "phrase30",
+        "speaker": "unknown",
+        "phrase": 30
+      },
+      {
+        "index": 31,
+        "start": 96.3169,
+        "end": 97.892233,
+        "duration": 1.575333,
+        "kana": "phrase31",
+        "speaker": "unknown",
+        "phrase": 31
+      },
+      {
+        "index": 32,
+        "start": 98.1016,
+        "end": 100.145333,
+        "duration": 2.043733,
+        "kana": "phrase32",
+        "speaker": "unknown",
+        "phrase": 32
+      },
+      {
+        "index": 33,
+        "start": 100.257,
+        "end": 102.665333,
+        "duration": 2.408333,
+        "kana": "phrase33",
+        "speaker": "unknown",
+        "phrase": 33
+      },
+      {
+        "index": 34,
+        "start": 103.062,
+        "end": 105.127333,
+        "duration": 2.065333,
+        "kana": "phrase34",
+        "speaker": "unknown",
+        "phrase": 34
+      },
+      {
+        "index": 35,
+        "start": 106.072,
+        "end": 106.424333,
+        "duration": 0.352333,
+        "kana": "phrase35",
+        "speaker": "unknown",
+        "phrase": 35
+      },
+      {
+        "index": 36,
+        "start": 107.984,
+        "end": 110.350333,
+        "duration": 2.366333,
+        "kana": "phrase36",
+        "speaker": "unknown",
+        "phrase": 36
+      },
+      {
+        "index": 37,
+        "start": 111.976,
+        "end": 112.838333,
+        "duration": 0.862333,
+        "kana": "phrase37",
+        "speaker": "unknown",
+        "phrase": 37
+      },
+      {
+        "index": 38,
+        "start": 113.302,
+        "end": 115.605333,
+        "duration": 2.303333,
+        "kana": "phrase38",
+        "speaker": "unknown",
+        "phrase": 38
+      },
+      {
+        "index": 39,
+        "start": 118.079,
+        "end": 118.827333,
+        "duration": 0.748333,
+        "kana": "phrase39",
+        "speaker": "unknown",
+        "phrase": 39
+      },
+      {
+        "index": 40,
+        "start": 118.989,
+        "end": 120.666333,
+        "duration": 1.677333,
+        "kana": "phrase40",
+        "speaker": "unknown",
+        "phrase": 40
+      },
+      {
+        "index": 41,
+        "start": 124.123,
+        "end": 125.810333,
+        "duration": 1.687333,
+        "kana": "phrase41",
+        "speaker": "unknown",
+        "phrase": 41
+      },
+      {
+        "index": 42,
+        "start": 127.945,
+        "end": 131.772333,
+        "duration": 3.827333,
+        "kana": "phrase42",
+        "speaker": "unknown",
+        "phrase": 42
+      },
+      {
+        "index": 43,
+        "start": 135.997,
+        "end": 137.958333,
+        "duration": 1.961333,
+        "kana": "phrase43",
+        "speaker": "unknown",
+        "phrase": 43
+      },
+      {
+        "index": 44,
+        "start": 139.878,
+        "end": 141.014333,
+        "duration": 1.136333,
+        "kana": "phrase44",
+        "speaker": "unknown",
+        "phrase": 44
+      },
+      {
+        "index": 45,
+        "start": 141.142,
+        "end": 144.661333,
+        "duration": 3.519333,
+        "kana": "phrase45",
+        "speaker": "unknown",
+        "phrase": 45
+      },
+      {
+        "index": 46,
+        "start": 144.938,
+        "end": 147.237333,
+        "duration": 2.299333,
+        "kana": "phrase46",
+        "speaker": "unknown",
+        "phrase": 46
+      },
+      {
+        "index": 47,
+        "start": 154.05,
+        "end": 156.117333,
+        "duration": 2.067333,
+        "kana": "phrase47",
+        "speaker": "unknown",
+        "phrase": 47
+      },
+      {
+        "index": 48,
+        "start": 159.559,
+        "end": 162.337333,
+        "duration": 2.778333,
+        "kana": "phrase48",
+        "speaker": "unknown",
+        "phrase": 48
+      },
+      {
+        "index": 49,
+        "start": 162.5,
+        "end": 164.112333,
+        "duration": 1.612333,
+        "kana": "phrase49",
+        "speaker": "unknown",
+        "phrase": 49
+      },
+      {
+        "index": 50,
+        "start": 168.636,
+        "end": 170.136333,
+        "duration": 1.500333,
+        "kana": "phrase50",
+        "speaker": "unknown",
+        "phrase": 50
+      },
+      {
+        "index": 51,
+        "start": 172.29,
+        "end": 173.260333,
+        "duration": 0.970333,
+        "kana": "phrase51",
+        "speaker": "unknown",
+        "phrase": 51
+      },
+      {
+        "index": 52,
+        "start": 175.531,
+        "end": 176.880333,
+        "duration": 1.349333,
+        "kana": "phrase52",
+        "speaker": "unknown",
+        "phrase": 52
+      },
+      {
+        "index": 53,
+        "start": 178.1,
+        "end": 179.881333,
+        "duration": 1.781333,
+        "kana": "phrase53",
+        "speaker": "unknown",
+        "phrase": 53
+      },
+      {
+        "index": 54,
+        "start": 182.359,
+        "end": 186.182333,
+        "duration": 3.823333,
+        "kana": "phrase54",
+        "speaker": "unknown",
+        "phrase": 54
+      },
+      {
+        "index": 55,
+        "start": 189.733,
+        "end": 191.125333,
+        "duration": 1.392333,
+        "kana": "phrase55",
+        "speaker": "unknown",
+        "phrase": 55
+      },
+      {
+        "index": 56,
+        "start": 192.409,
+        "end": 194.210333,
+        "duration": 1.801333,
+        "kana": "phrase56",
+        "speaker": "unknown",
+        "phrase": 56
+      },
+      {
+        "index": 57,
+        "start": 197.115,
+        "end": 199.365333,
+        "duration": 2.250333,
+        "kana": "phrase57",
+        "speaker": "unknown",
+        "phrase": 57
+      },
+      {
+        "index": 58,
+        "start": 202.136,
+        "end": 204.679333,
+        "duration": 2.543333,
+        "kana": "phrase58",
+        "speaker": "unknown",
+        "phrase": 58
+      },
+      {
+        "index": 59,
+        "start": 207.25,
+        "end": 209.364333,
+        "duration": 2.114333,
+        "kana": "phrase59",
+        "speaker": "unknown",
+        "phrase": 59
+      },
+      {
+        "index": 60,
+        "start": 209.468,
+        "end": 209.809333,
+        "duration": 0.341333,
+        "kana": "phrase60",
+        "speaker": "unknown",
+        "phrase": 60
+      },
+      {
+        "index": 61,
+        "start": 211.715,
+        "end": 213.332333,
+        "duration": 1.617333,
+        "kana": "phrase61",
+        "speaker": "unknown",
+        "phrase": 61
+      },
+      {
+        "index": 62,
+        "start": 214.597,
+        "end": 217.279333,
+        "duration": 2.682333,
+        "kana": "phrase62",
+        "speaker": "unknown",
+        "phrase": 62
+      },
+      {
+        "index": 63,
+        "start": 218.57,
+        "end": 222.116333,
+        "duration": 3.546333,
+        "kana": "phrase63",
+        "speaker": "unknown",
+        "phrase": 63
+      },
+      {
+        "index": 64,
+        "start": 222.322,
+        "end": 225.552333,
+        "duration": 3.230333,
+        "kana": "phrase64",
+        "speaker": "unknown",
+        "phrase": 64
+      },
+      {
+        "index": 65,
+        "start": 226.436,
+        "end": 228.418333,
+        "duration": 1.982333,
+        "kana": "phrase65",
+        "speaker": "unknown",
+        "phrase": 65
+      },
+      {
+        "index": 66,
+        "start": 228.7,
+        "end": 233.008333,
+        "duration": 4.308333,
+        "kana": "phrase66",
+        "speaker": "unknown",
+        "phrase": 66
+      },
+      {
+        "index": 67,
+        "start": 233.258,
+        "end": 235.341333,
+        "duration": 2.083333,
+        "kana": "phrase67",
+        "speaker": "unknown",
+        "phrase": 67
+      },
+      {
+        "index": 68,
+        "start": 235.919,
+        "end": 237.649333,
+        "duration": 1.730333,
+        "kana": "phrase68",
+        "speaker": "unknown",
+        "phrase": 68
+      },
+      {
+        "index": 69,
+        "start": 237.906,
+        "end": 241.260333,
+        "duration": 3.354333,
+        "kana": "phrase69",
+        "speaker": "unknown",
+        "phrase": 69
+      },
+      {
+        "index": 70,
+        "start": 244.209,
+        "end": 246.587333,
+        "duration": 2.378333,
+        "kana": "phrase70",
+        "speaker": "unknown",
+        "phrase": 70
+      },
+      {
+        "index": 71,
+        "start": 246.925,
+        "end": 248.343333,
+        "duration": 1.418333,
+        "kana": "phrase71",
+        "speaker": "unknown",
+        "phrase": 71
+      },
+      {
+        "index": 72,
+        "start": 248.787,
+        "end": 250.467333,
+        "duration": 1.680333,
+        "kana": "phrase72",
+        "speaker": "unknown",
+        "phrase": 72
+      },
+      {
+        "index": 73,
+        "start": 250.72,
+        "end": 254.197333,
+        "duration": 3.477333,
+        "kana": "phrase73",
+        "speaker": "unknown",
+        "phrase": 73
+      },
+      {
+        "index": 74,
+        "start": 254.607,
+        "end": 256.051333,
+        "duration": 1.444333,
+        "kana": "phrase74",
+        "speaker": "unknown",
+        "phrase": 74
+      },
+      {
+        "index": 75,
+        "start": 256.418,
+        "end": 258.254333,
+        "duration": 1.836333,
+        "kana": "phrase75",
+        "speaker": "unknown",
+        "phrase": 75
+      },
+      {
+        "index": 76,
+        "start": 258.461,
+        "end": 262.848333,
+        "duration": 4.387333,
+        "kana": "phrase76",
+        "speaker": "unknown",
+        "phrase": 76
+      },
+      {
+        "index": 77,
+        "start": 263.14,
+        "end": 265.172333,
+        "duration": 2.032333,
+        "kana": "phrase77",
+        "speaker": "unknown",
+        "phrase": 77
+      }
+    ]
+  }
+]
