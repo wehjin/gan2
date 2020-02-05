@@ -270,6 +270,56 @@
       "to": [
         "について"
       ]
+    },
+    {
+      "from": "山田さんをカラオケ{..}さそう。",
+      "to": [
+        "に"
+      ]
+    },
+    {
+      "from": "アニメ{..}きょうみをもつ",
+      "to": [
+        "に"
+      ]
+    },
+    {
+      "from": "ケンは日本語が上ず{..}ぞ。",
+      "to": [
+        "だ"
+      ],
+      "to-more": "plain speech, nouns and na-adjectives"
+    },
+    {
+      "from": "もうタバコはすわない{!}。",
+      "to": [
+        "ぞ"
+      ],
+      "to-more": "plain speech, verbs and i-adjectives"
+    },
+    {
+      "from": "{anyone}日本に行ったことがありますか。",
+      "to": "だれか"
+    },
+    {
+      "from": "この町は{anything}有名ですか。",
+      "to": "何かで"
+    },
+    {
+      "from": "この中で、{something}好きですか。",
+      "to": "どれか"
+    },
+    {
+      "from": "{any of two}買ったんですか。",
+      "to": "どっちか"
+    },
+    {
+      "from": "{somewhere}行きましたか。",
+      "to": "どこかに"
+    },
+    {
+      "from": "{sometime}　日本に行ってみたい。",
+      "to": "いつか"
     }
   ]
 }
