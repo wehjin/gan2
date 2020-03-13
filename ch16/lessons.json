@@ -1,5 +1,286 @@
 {
   "level": 16,
+  "produce-listen": [
+    {
+      "from": "duration",
+      "to": "間",
+      "to-more": "あいだ",
+      "to-search": "間"
+    },
+    {
+      "from": "matter; thing",
+      "to": "事",
+      "to-more": "こと",
+      "to-search": "事"
+    },
+    {
+      "from": "this weekend",
+      "to": "今週まつ",
+      "to-search": "今週末"
+    },
+    {
+      "from": "cram school",
+      "to": "じゅく",
+      "to-search": "塾"
+    },
+    {
+      "from": "each; respectively",
+      "to": "それぞれ",
+      "to-search": "それぞれ"
+    },
+    {
+      "from": "two-year college",
+      "to": "短大",
+      "to-more": "たんだい",
+      "to-search": "短大"
+    },
+    {
+      "from": "view",
+      "to": "ながめ",
+      "to-search": "ながめ"
+    },
+    {
+      "from": "part-time work, short form",
+      "to": "バイト",
+      "to-search": "バイト"
+    },
+    {
+      "from": "counter for goods",
+      "to": "ひん",
+      "to-search": "ひん"
+    },
+    {
+      "from": "USA",
+      "to": "米国",
+      "to-more": "べいこく",
+      "to-search": "米国"
+    },
+    {
+      "from": "swimming pool",
+      "to": "プール",
+      "to-search": "プール"
+    },
+    {
+      "from": "another; other",
+      "to": "ほか",
+      "to-search": "ほか"
+    },
+    {
+      "from": "potluck",
+      "to": "ポットラック",
+      "to-search": "ポットラック"
+    },
+    {
+      "from": "past; a long time ago; once",
+      "to": "むかし",
+      "to-search": "むかし"
+    },
+    {
+      "from": "mountain",
+      "to": "山",
+      "to-more": "やま",
+      "to-search": "山"
+    },
+    {
+      "from": "each bringing something",
+      "to": "持ちより",
+      "to-search": "持ちより"
+    },
+    {
+      "from": "friend",
+      "to": "友人",
+      "to-more": "ようじん",
+      "to-search": "友人"
+    },
+    {
+      "from": "rush hour",
+      "to": "ラッシュアワー",
+      "to-search": "ラッシュアワー"
+    },
+    {
+      "from": "swim",
+      "to": "およぐ",
+      "to-search": "泳ぐ"
+    },
+    {
+      "from": "return (transitive)",
+      "to": "かえす",
+      "to-search": "かえす"
+    },
+    {
+      "from": "stand",
+      "to": "たつ",
+      "to-search": "立つ"
+    },
+    {
+      "from": "go out (date); accompany",
+      "to": "つきあう",
+      "to-search": "付き合う"
+    },
+    {
+      "from": "work",
+      "to": "はたらく",
+      "to-search": "はたらく"
+    },
+    {
+      "from": "take something",
+      "to": "持って行く",
+      "to-search": "持って行く"
+    },
+    {
+      "from": "translate",
+      "to": "やくす",
+      "to-search": "訳す"
+    },
+    {
+      "from": "invite (plain, alt)",
+      "to": "よぶ",
+      "to-search": "よぶ"
+    },
+    {
+      "from": "introduce",
+      "to": "しょうかいする",
+      "to-search": "紹介する"
+    },
+    {
+      "from": "bring something",
+      "to": "持って来る",
+      "to-search": "持って来る"
+    },
+    {
+      "from": "cool; nice-looking",
+      "to": "かっこいい",
+      "to-search": "かっこいい"
+    },
+    {
+      "from": "good at and proud of",
+      "to": "とくい",
+      "to-search": "とくい"
+    },
+    {
+      "from": "unexpectedly",
+      "to": "ばったり",
+      "to-search": "ばったり"
+    },
+    {
+      "from": "(the noun) or something",
+      "to": "でも",
+      "to-search": "でも"
+    },
+    {
+      "from": "welcome",
+      "to": "いらっしゃい",
+      "to-search": "いらっしゃい"
+    },
+    {
+      "from": "oh!",
+      "to": "おー",
+      "to-search": "おー"
+    },
+    {
+      "from": "excuse me (entering house)",
+      "to": "おじゃまします",
+      "to-search": "おじゃまします"
+    },
+    {
+      "from": "to suit one's taste; be pleased with",
+      "to": "気に入る",
+      "to-more": "きにいる",
+      "to-search": "気に入る"
+    },
+    {
+      "from": "now; with this",
+      "to": "これで",
+      "to-search": "これで"
+    },
+    {
+      "from": "part of the way",
+      "to": "と中まで",
+      "to-more": "とちゅうまで",
+      "to-search": "途中まで"
+    },
+    {
+      "from": "some (of them)",
+      "to": "中には",
+      "to-more": "なかには",
+      "to-search": "中には"
+    },
+    {
+      "from": "(noun) decide on",
+      "to": "にする",
+      "to-search": "にする"
+    },
+    {
+      "from": "You mean Yoshiyuki?",
+      "to": "よしゆきくんのこと？",
+      "to-search": "よしゆきくんのこと？"
+    },
+    {
+      "from": "sorry (ask or deny request)",
+      "to": "わるいけど",
+      "to-search": "わるいけど"
+    },
+    {
+      "from": "very thirsty",
+      "to": "からから",
+      "to-search": "からから"
+    },
+    {
+      "from": "baby crying",
+      "to": "ギャーギャー",
+      "to-search": "ギャーギャー"
+    },
+    {
+      "from": "packed tightly",
+      "to": "ぎゅうぎゅう",
+      "to-search": "ぎゅうぎゅう"
+    },
+    {
+      "from": "pouring rain",
+      "to": "ザーザー",
+      "to-search": "ザーザー"
+    },
+    {
+      "from": "still; silent",
+      "to": "しーん",
+      "to-search": "しーん"
+    },
+    {
+      "from": "soft rain",
+      "to": "しとしと",
+      "to-search": "しとしと"
+    },
+    {
+      "from": "heart pounding",
+      "to": "どきどき",
+      "to-search": "どきどき"
+    },
+    {
+      "from": "shiny; sparkling",
+      "to": "ぴかぴか",
+      "to-search": "ぴかぴか"
+    },
+    {
+      "from": "very hungry",
+      "to": "ぺこぺこ",
+      "to-search": "ぺこぺこ"
+    },
+    {
+      "from": "chatter",
+      "to": "ペチャクチャ",
+      "to-search": "ペチャクチャ"
+    },
+    {
+      "from": "speak fluently",
+      "to": "ペラペラ",
+      "to-search": "ペラペラ"
+    },
+    {
+      "from": "child crying",
+      "to": "ワーワー",
+      "to-search": "ワーワー"
+    }
+  ],
   "cloze": [
     {
       "from": "しけんだから、{べん}きょうしているんです。",
@@ -350,7 +631,7 @@
       ]
     },
     {
-      "from": "今日ちょっと私{accompany}つきあっていますか。",
+      "from": "今日ちょっと私{accompany}つきあっていますか。つき合って",
       "to": [
         "に"
       ]
