@@ -1,0 +1,266 @@
+{
+  "level": 17,
+  "produce-listen": [
+    {
+      "from": "a large park in Tokyo",
+      "to": "上野公園",
+      "to-more": "うえのこうえん",
+      "to-search": "上野公園"
+    },
+    {
+      "from": "he",
+      "to": "かれ",
+      "to-search": "かれ"
+    },
+    {
+      "from": "strong emotion, impression",
+      "to": "かんげき",
+      "to-search": "かんげき"
+    },
+    {
+      "from": "Intl Studies Department",
+      "to": "国さい学部",
+      "to-more": "こくさいがくぶ",
+      "to-search": "国際学部"
+    },
+    {
+      "from": "club (social)",
+      "to": "サークル",
+      "to-search": "サークル"
+    },
+    {
+      "from": "group activities",
+      "to": "サークル活動",
+      "to-more": "サークルかつどう",
+      "to-search": "サークル活動"
+    },
+    {
+      "from": "first(n); moment before everything else",
+      "to": "先",
+      "to-more": "さき",
+      "to-search": "先"
+    },
+    {
+      "from": "cherry tree; cherry blossom",
+      "to": "さくら",
+      "to-search": "さくら"
+    },
+    {
+      "from": "a kind; a variety",
+      "to": "しゅるい",
+      "to-search": "種類"
+    },
+    {
+      "from": "female college student",
+      "to": "女子大生",
+      "to-more": "じょしだいせい",
+      "to-search": "女子大生"
+    },
+    {
+      "from": "life; living",
+      "to": "生活",
+      "to-more": "せいかつ",
+      "to-search": "生活"
+    },
+    {
+      "from": "a popular cherry tree variety",
+      "to": "そめいよしの",
+      "to-search": "そめいよしの"
+    },
+    {
+      "from": "word; vocabulary",
+      "to": "たん語",
+      "to-more": "たんご",
+      "to-search": "たん語"
+    },
+    {
+      "from": "weather",
+      "to": "天気",
+      "to-more": "てんき",
+      "to-search": "天気"
+    },
+    {
+      "from": "fermented soybean dish",
+      "to": "なっとう",
+      "to-search": "なっとう"
+    },
+    {
+      "from": "violin",
+      "to": "バイオリン",
+      "to-search": "バイオリン"
+    },
+    {
+      "from": "place (alt)",
+      "to": "ば所",
+      "to-more": "ばしょ",
+      "to-search": "場所"
+    },
+    {
+      "from": "flower viewing",
+      "to": "花見",
+      "to-more": "はなみ",
+      "to-search": "花見"
+    },
+    {
+      "from": "box lunch",
+      "to": "おべん当",
+      "to-more": "おべんとう",
+      "to-search": "お弁当"
+    },
+    {
+      "from": "full bloom",
+      "to": "まん開",
+      "to-more": "まんかい",
+      "to-search": "満開"
+    },
+    {
+      "from": "cherry blossoms at night",
+      "to": "夜ざくら",
+      "to-more": "よざくら",
+      "to-search": "夜桜"
+    },
+    {
+      "from": "night",
+      "to": "夜",
+      "to-more": "よる",
+      "to-search": "夜"
+    },
+    {
+      "from": "lighting up (cherry trees)",
+      "to": "ライトアップ",
+      "to-search": "ライトアップ"
+    },
+    {
+      "from": "memorize",
+      "to": "おぼえる",
+      "to-search": "おぼえる"
+    },
+    {
+      "from": "be audible",
+      "to": "聞こえる",
+      "to-search": "聞こえる"
+    },
+    {
+      "from": "be visible",
+      "to": "見える",
+      "to-search": "見える"
+    },
+    {
+      "from": "find; discover",
+      "to": "見つける",
+      "to-search": "見つける"
+    },
+    {
+      "from": "bloom; flower",
+      "to": "さく",
+      "to-search": "さく"
+    },
+    {
+      "from": "become silent; keep quiet",
+      "to": "だまる",
+      "to-search": "だまる"
+    },
+    {
+      "from": "run",
+      "to": "はしる",
+      "to-search": "はしる"
+    },
+    {
+      "from": "be impressed",
+      "to": "かんげきする",
+      "to-search": "感激する"
+    },
+    {
+      "from": "wash; launder",
+      "to": "せんたくする",
+      "to-search": "洗濯する"
+    },
+    {
+      "from": "be warm; cozy",
+      "to": "ぽかぽかする",
+      "to-search": "ぽかぽかする"
+    },
+    {
+      "from": "at the same time",
+      "to": "ーどに",
+      "to-more": "いちどに",
+      "to-search": "1度に"
+    },
+    {
+      "from": "full",
+      "to": "いっぱい",
+      "to-search": "いっぱい"
+    },
+    {
+      "from": "at once; right away (casual)",
+      "to": "さっそく",
+      "to-search": "さっそく"
+    },
+    {
+      "from": "first; first of all",
+      "to": "まず",
+      "to-search": "まず"
+    },
+    {
+      "from": "after all; as expected",
+      "to": "やっぱり",
+      "to-more": "",
+      "to-search": "やっぱり"
+    },
+    {
+      "from": "representative; typical",
+      "to": "だいひょう的",
+      "to-more": "だいひょうてき",
+      "to-search": "代表的"
+    },
+    {
+      "from": "wonderful; fine; beautiful",
+      "to": "見事",
+      "to-more": "みごと",
+      "to-search": "見事"
+    },
+    {
+      "from": "egads! oh!",
+      "to": "いやあ",
+      "to-search": "いやあ"
+    },
+    {
+      "from": "a short while ago",
+      "to": "さっき",
+      "to-search": "さっき"
+    },
+    {
+      "from": "unfortunately",
+      "to": "ざんねんながら",
+      "to-search": "残念ながら"
+    },
+    {
+      "from": "with full spirit",
+      "to": "せいーぱい",
+      "to-more": "せいいっぱい",
+      "to-search": "精一杯"
+    },
+    {
+      "from": "food over flowers",
+      "to": "花よりだん子",
+      "to-more": "はなよりだんご",
+      "to-search": "花より団子"
+    },
+    {
+      "from": "huh; really",
+      "to": "へー",
+      "to-more": "へえ",
+      "to-search": "へー"
+    },
+    {
+      "from": "extremely; incredibly",
+      "to": "めちゃくちゃ",
+      "to-search": "めちゃくちゃ"
+    },
+    {
+      "from": "on it!",
+      "to": "よていがはいる",
+      "to-search": "予定が入る"
+    }
+  ]
+}
