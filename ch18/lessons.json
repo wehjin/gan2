@@ -1,5 +1,293 @@
 {
   "level": 18,
-  "produce-listen": [],
-  "cloze": []
+  "produce-listen": [
+    {
+      "from": "among; in (numeric)",
+      "to": "うち",
+      "to-more": "うち",
+      "to-search": "うち"
+    },
+    {
+      "from": "someone's grandfather; old man",
+      "to": "おじいさん",
+      "to-more": "おじいさん",
+      "to-search": "おじいさん"
+    },
+    {
+      "from": "someone's grandmother; old woman",
+      "to": "おばあさん",
+      "to-more": "おばあさん",
+      "to-search": "おばあさん"
+    },
+    {
+      "from": "flower vase",
+      "to": "かびん",
+      "to-more": "花びん",
+      "to-search": "かびん"
+    },
+    {
+      "from": "feeling",
+      "to": "きもち",
+      "to-more": "気持ち",
+      "to-search": "きもち"
+    },
+    {
+      "from": "memory; remembrance",
+      "to": "きねん",
+      "to-more": "記ねん",
+      "to-search": "きねん"
+    },
+    {
+      "from": "memento",
+      "to": "きねんひん",
+      "to-more": "記ねんひん",
+      "to-search": "きねんひん"
+    },
+    {
+      "from": "professor",
+      "to": "きょうじゅ",
+      "to-more": "教じゅ",
+      "to-search": "きょうじゅ"
+    },
+    {
+      "from": "ticket",
+      "to": "けん",
+      "to-more": "けん",
+      "to-search": "けん"
+    },
+    {
+      "from": "professor's office",
+      "to": "けんきゅうしつ",
+      "to-more": "けんきゅう室",
+      "to-search": "けんきゅうしつ"
+    },
+    {
+      "from": "second semester or half",
+      "to": "こうき",
+      "to-more": "後期",
+      "to-search": "こうき"
+    },
+    {
+      "from": "ending; conclusion",
+      "to": "さいご",
+      "to-more": "さい後",
+      "to-search": "さいご"
+    },
+    {
+      "from": "agreement; approval",
+      "to": "さんせい",
+      "to-more": "さんせい",
+      "to-search": "さんせい"
+    },
+    {
+      "from": "roller coaster",
+      "to": "ジェットコースター",
+      "to-more": "ジェットコースター",
+      "to-search": "ジェットコースター"
+    },
+    {
+      "from": "article; goods",
+      "to": "しな",
+      "to-more": "しな",
+      "to-search": "しな"
+    },
+    {
+      "from": "a member of society",
+      "to": "しゃかいじん",
+      "to-more": "社会人",
+      "to-search": "しゃかいじん"
+    },
+    {
+      "from": "psychology",
+      "to": "しんりがく",
+      "to-more": "しんり学",
+      "to-search": "しんりがく"
+    },
+    {
+      "from": "grade; score",
+      "to": "せいせき",
+      "to-more": "せいせき",
+      "to-search": "せいせき"
+    },
+    {
+      "from": "seminar",
+      "to": "ゼミ",
+      "to-more": "ゼミ",
+      "to-search": "ゼミ"
+    },
+    {
+      "from": "graduation ceremony",
+      "to": "そつぎょうしき",
+      "to-more": "卒業式",
+      "to-search": "そつぎょうしき"
+    },
+    {
+      "from": "representative (person)",
+      "to": "だいひょう",
+      "to-more": "代表",
+      "to-search": "だいひょう"
+    },
+    {
+      "from": "thanks; gratitude",
+      "to": "おれい",
+      "to-more": "お礼",
+      "to-search": "おれい"
+    },
+    {
+      "from": "give (respected to non-speaker)",
+      "to": "さしあげる",
+      "to-more": "さしあげる",
+      "to-search": "さしあげる"
+    },
+    {
+      "from": "visit",
+      "to": "おとずれる",
+      "to-more": "おとずれる",
+      "to-search": "おとずれる"
+    },
+    {
+      "from": "receive (from respected giver)",
+      "to": "いただく",
+      "to-more": "いただく",
+      "to-search": "いただく"
+    },
+    {
+      "from": "accept a thing",
+      "to": "うけとる",
+      "to-more": "うけとる",
+      "to-search": "うけとる"
+    },
+    {
+      "from": "send a thing",
+      "to": "おくる",
+      "to-more": "おくる",
+      "to-search": "おくる"
+    },
+    {
+      "from": "tease; joke",
+      "to": "からかう",
+      "to-more": "からかう",
+      "to-search": "からかう"
+    },
+    {
+      "from": "talk; discuss",
+      "to": "はなしあう",
+      "to-more": "話し合う",
+      "to-search": "はなしあう"
+    },
+    {
+      "from": "hand over; give",
+      "to": "わたす",
+      "to-more": "わたす",
+      "to-search": "わたす"
+    },
+    {
+      "from": "graduate",
+      "to": "そつぎょうする",
+      "to-more": "卒業する",
+      "to-search": "そつぎょうする"
+    },
+    {
+      "from": "respect",
+      "to": "そんけいする",
+      "to-more": "そんけいする",
+      "to-search": "そんけいする"
+    },
+    {
+      "from": "polite",
+      "to": "ていねい",
+      "to-more": "ていねい",
+      "to-search": "ていねい"
+    },
+    {
+      "from": "safe; uneventful",
+      "to": "ぶじ",
+      "to-more": "ぶ事",
+      "to-search": "ぶじ"
+    },
+    {
+      "from": "romantic",
+      "to": "ロマンチック",
+      "to-more": "ロマンチック",
+      "to-search": "ロマンチック"
+    },
+    {
+      "from": "sudden; abrupt",
+      "to": "きゅう",
+      "to-more": "きゅう",
+      "to-search": "きゅう"
+    },
+    {
+      "from": "actually; in fact",
+      "to": "じつは",
+      "to-more": "じつは",
+      "to-search": "じつは"
+    },
+    {
+      "from": "already",
+      "to": "すでに",
+      "to-more": "すでに",
+      "to-search": "すでに"
+    },
+    {
+      "from": "as; for",
+      "to": "として",
+      "to-more": "として",
+      "to-search": "として"
+    },
+    {
+      "from": "such as",
+      "to": "なんか",
+      "to-more": "なんか",
+      "to-search": "なんか"
+    },
+    {
+      "from": "no",
+      "to": "いや",
+      "to-more": "いや",
+      "to-search": "いや"
+    },
+    {
+      "from": "Thank you for your kindness",
+      "to": "おせわになりました",
+      "to-more": "お世話になりました",
+      "to-search": "おせわになりました"
+    },
+    {
+      "from": "Congratulations!",
+      "to": "おめでとう",
+      "to-more": "おめでとう",
+      "to-search": "おめでとう"
+    },
+    {
+      "from": "be under the care of",
+      "to": "おせわになる",
+      "to-more": "お世話になる",
+      "to-search": "おせわになる"
+    },
+    {
+      "from": "You know; hi",
+      "to": "ねえ",
+      "to-more": "ねえ",
+      "to-search": "ねえ"
+    },
+    {
+      "from": "You got me.",
+      "to": "まいった",
+      "to-more": "まいった",
+      "to-search": "まいった"
+    },
+    {
+      "from": "From us to show our appreciation.",
+      "to": "みんなからのきもちです",
+      "to-more": "みんなからの気持ちです",
+      "to-search": "みんなからのきもちです"
+    },
+    {
+      "from": "be useful",
+      "to": "やくにたつ",
+      "to-more": "やくにたつ",
+      "to-search": "やくにたつ"
+    }
+  ]
 }
