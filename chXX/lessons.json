@@ -1,12 +1,7 @@
 {
   "level": 100,
   "produce-listen": [
-    {
-      "from": "",
-      "to": "",
-      "to-more": "",
-      "to-search": ""
-    },
+    {"from": "","to": "","to-more": "","to-search": ""},
   ],
   "cloze": [
     {"from": "{}", "to": [""]},
