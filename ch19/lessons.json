@@ -17,7 +17,7 @@
     {"from": "seat belt","to": "シートベルト","to-more": "シートベルト","to-search": "シートベルト"},
     {"from": "art of sumo","to": "すもう","to-more": "すもう","to-search": "相撲"},
     {"from": "oneself, I","to": "じぶん","to-more": "自分","to-search": "自分"},
-    {"from": "person's hometown, origin","to": "しゅっし","to-more": "出身","to-search": "出身"},
+    {"from": "person's hometown, origin","to": "しゅっしん","to-more": "出身","to-search": "出身"},
     {"from": "charity","to": "チャリティー","to-more": "チャリティー","to-search": "チャリティー"},
     {"from": "middle age","to": "ちゅうねん","to-more": "中年","to-search": "中年"},
     {"from": "power source; outlet","to": "でんげん","to-more": "電げん","to-search": "電源"},
