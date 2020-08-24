@@ -68,7 +68,7 @@
     {"from": "the heck?","to": "なんだ","to-more": "なんだ","to-search": "なんだ"},
     {"from": "anything that is X (suffix)","to": "なんでも","to-more": "なんでも","to-search": "何でも"},
     {"from": "good at, strong in (suffix)","to": "~につよい","to-more": "~に強い","to-search": "に強い"},
-    {"from": "wonder at","to": "ふしぎに思う","to-more": "ふし思ぎに思う","to-search": "不思議に思う"},
+    {"from": "wonder at","to": "ふしぎに思う","to-more": "ふ思ぎに思う","to-search": "不思議に思う"},
     {"from": "if it is alright with you","to": "よろしければ","to-more": "よろしければ","to-search": "宜しければ"},
     {"from": "alright,ok","to": "よし","to-more": "よし","to-search": "よし"}
   ]
