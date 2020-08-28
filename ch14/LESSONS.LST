@@ -27,7 +27,7 @@ produce:stay; lodge:とまる/place に　泊まります:14
 produce:exercise:エクササイズをする:14
 produce:experience/verb, abstract:けいけんをする:14
 produce:stroll; take a walk:さんぽをする:14
-produce:invite:しょうたいする/person を place に　招待します:14
+produce:invite(written):しょうたいする/person を place に　招待します:14
 produce:jog:ジョギングをする:14
 produce:clean/verb:そうじをする:14
 produce:experience/verb, first-hand:たいけんをする:14
