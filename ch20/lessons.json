@@ -17,7 +17,7 @@
     {"from": "boyfriend","to": "ボーイフレンド","to-more": "ボーイフレンド","to-search": "ボーイフレンド"},
     {"from": "full (of people)","to": "まんいん","to-more": "満員","to-search": "満員"},
     {"from": "the other side","to": "むこう","to-more": "向こう","to-search": "向こう"},
-    {"from": "to be in a hurry","to": "あわてる","to-more": "慌てる","to-search": "慌てる"},
+    {"from": "to be in a hurry/panic","to": "あわてる","to-more": "慌てる","to-search": "慌てる"},
     {"from": "to bully","to": "いじめる","to-more": "苛める","to-search": "苛める"},
     {"from": "to bark","to": "ほえる","to-more": "吠える","to-search": "吠える"},
     {"from": "to praise","to": "ほめる","to-more": "褒める","to-search": "褒める"},
