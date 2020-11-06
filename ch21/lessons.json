@@ -54,5 +54,33 @@
     {"from": "to tell the truth","to": "ほんとのこというと","to-more": "ほんとのこというと","to-search": "ほんとのこというと"},
     {"from": "absolutely","to": "まったく","to-more": "全く","to-search": "全く"},
     {"from": "Yuuta's time has come","to": "ゆうたにもはるがきた","to-more": "ゆうたにもはるがきた","to-search": "ゆうたにもはるがきた"}
+  ],
+  "cloze": [
+    {"from": "テレビを見{while}、宿題をします。", "to": ["ながら"]},
+    {"from": "ゆうたが練習してい{while}、私も練習しているんです。", "to": ["る間"]},
+    {"from": "日本にい{while}、英語を教えました。", "to": ["る間"]},
+    {"from": "ゆうた{marker}練習している間、私は本を読みます。", "to": ["が"]},
+    {"from": "赤ちゃんが寝てい{while, specific}、お母さんは洗たくをしまいました。", "to": ["る間に"]},
+    {"from": "ニコニコしてい{and what's more}、がんばってい{and what's more}、彼女はいいかたね。", "to": ["るし"]},
+    {"from": "このかんじは{difficult to write}ですね。", "to": ["かきにくい"]},
+    {"from": "ロームは{easy to live in}かったです。", "to": ["すみやす"]},
+    {"from": "コーヒーを{drank too much}て、寝られませんでした。", "to": ["飲みすぎ"]},
+    {"from": "試験は{too difficult}て、できなかった。", "to": ["むずかしすぎ"]},
+    {"from": "ゲームは{too simple}ますから、おも白くないなあ。", "to": ["かんたんすぎ"]},
+    {"from": "ドアを{close for later convenience}ください。", "to": ["しめておいて"]},
+    {"from": "来週は忙しくなるので、今週家を{cleaned in advance}ました。", "to": ["そうじしてあき"]},
+    {"from": "さしみは古そうなので{will not eat for later convenience}ます。", "to": ["食べないでおき"]},
+    {"from": "友だちに{to sing}ほしいんです。", "to": ["歌って"]},
+    {"from": "私は姉{particle}もっとやさしくしてほしいです。", "to": ["に"]},
+    {"from": "母にアパートに来{want not to come}んです。", "to": ["ないでほしい"]},
+    {"from": "母にアパートに来{don't want to come}んです。", "to": ["てほしくない"]},
+    {"from": "お金がないので、パーチィーを{will be decided not to have}でしょう。", "to": ["しないことになる"]},
+    {"from": "家の中ではくつをぬ{by custom take off}。", "to": ["ぐことになっている"]},
+    {"from": "かん国語のクラスをと{am thinking of taking}。", "to": ["ろうと思っています"]},
+    {"from": "日曜日の夜は出かけ{think will not go out for later convenience}。", "to": ["ないでおこうと思います"]},
+    {"from": "このお茶は五はい{in order, 5th}です。", "to": ["目（め）"]},
+    {"from": "犬{particle}世話をするのは大へんです。", "to": ["の"]},
+    {"from": "兄{particle}わかれて一人で行きました。", "to": ["と"]},
+    {"from": "このドレスいくら{I wonder, female}？", "to": ["かしら"]}
   ]
 }
