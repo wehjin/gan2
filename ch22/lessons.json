@@ -14,7 +14,7 @@
     {"from": "one's superior","to": "じょうし","to-more": "上司","to-search": "上司"},
     {"from": "one's senior","to": "せんぱい","to-more": "先輩","to-search": "先輩"},
     {"from": "advice; warning","to": "ちゅうこく","to-more": "忠告","to-search": "忠告"},
-    {"from": "intention","to": "つまり","to-more": "つまり","to-search": "つまり"},
+    {"from": "intention","to": "つもり","to-more": "つもり","to-search": "つもり"},
     {"from": "mother","to": "ははおや (full)","to-more": "母親","to-search": "母親"},
     {"from": "one's subordinate","to": "ぶか","to-more": "部下","to-search": "部下"},
     {"from": "head of department (director)","to": "ぶちょう","to-more": "部長","to-search": "部長"},
