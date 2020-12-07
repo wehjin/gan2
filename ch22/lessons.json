@@ -143,7 +143,7 @@
     {"from": "雨が降{started raining}。", "to": ["り始めました"]},
     {"from": "弟は私のゲームを{wants}。", "to": ["ほしがっています"]},
     {"from": "妹は私の着物を{wants to wear}。", "to": ["着たがっています"]},
-    {"from": "父はあなた{..}行たがらないです。", "to": ["に"]},
+    {"from": "父はあなたに行きた{wants not to go}。", "to": ["がらないです"]},
     {"from": "こどもたちはうれし{is feeling}。", "to": ["がっています"]},
     {"from": "ちょっと先生にそうだん{consult and come back}。", "to": ["して来る"]},
     {"from": "とちゅうでカフェで飲{drink and go}。", "to": ["んで行こう"]},
