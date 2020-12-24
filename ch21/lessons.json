@@ -68,7 +68,7 @@
     {"from": "試験は{too difficult}て、できなかった。", "to": ["むずかしすぎ"]},
     {"from": "ゲームは{too simple}ますから、おも白くないなあ。", "to": ["かんたんすぎ"]},
     {"from": "ドアを{close for later convenience}ください。", "to": ["しめておいて"]},
-    {"from": "来週は忙しくなるので、今週家を{cleaned in advance}ました。", "to": ["そうじしてあき"]},
+    {"from": "来週は忙しくなるので、今週家を{cleaned in advance}ました。", "to": ["そうじしておき"]},
     {"from": "さしみは古そうなので{will not eat for later convenience}ます。", "to": ["食べないでおき"]},
     {"from": "友だちに{to sing}ほしいんです。", "to": ["歌って"]},
     {"from": "私は姉{particle}もっとやさしくしてほしいです。", "to": ["に"]},
