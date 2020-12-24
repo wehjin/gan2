@@ -76,7 +76,7 @@
     {"from": "私は父にうたをうた{received favor,plain}。", "to": ["ってもらった"]},
     {"from": "先生は私{..}せつめいしてくださいませんか。", "to": ["に"]},
     {"from": "昨日、ね{before sleeping}、ギターをひきました。", "to": ["る前に"]},
-    {"from": "パーチィーが終わ{after ending}、家をそうじします。", "to": ["った後で"]},
+    {"from": "パーティーが終わ{after ending}、家をそうじします。", "to": ["った後で"]},
     {"from": "コーヒーをつめた{make icy}ください。", "to": ["くして"]},
     {"from": "このしけんをかんたん{let's make simple}。", "to": ["にしよう"]},
     {"from": "「きよめる」{means,compact}ですか。", "to": ["ってどう言う意味"]},

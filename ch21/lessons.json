@@ -74,7 +74,7 @@
     {"from": "私は姉{particle}もっとやさしくしてほしいです。", "to": ["に"]},
     {"from": "母にアパートに来{want not to come}んです。", "to": ["ないでほしい"]},
     {"from": "母にアパートに来{don't want to come}んです。", "to": ["てほしくない"]},
-    {"from": "お金がないので、パーチィーを{will be decided not to have}でしょう。", "to": ["しないことになる"]},
+    {"from": "お金がないので、パーティーを{will be decided not to have}でしょう。", "to": ["しないことになる"]},
     {"from": "家の中ではくつをぬ{by custom take off}。", "to": ["ぐことになっている"]},
     {"from": "かん国語のクラスをと{am thinking of taking}。", "to": ["ろうと思っています"]},
     {"from": "日曜日の夜は出かけ{think will not go out for later convenience}。", "to": ["ないでおこうと思います"]},
