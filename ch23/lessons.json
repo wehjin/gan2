@@ -1,0 +1,419 @@
+{
+  "level": 23,
+  "produce-listen": [
+    {
+      "from": "shopping/entertainment district in Tokyo",
+      "to": "おだいば",
+      "to-more": "お台場",
+      "to-search": "お台場"
+    },
+    {
+      "from": "curtain",
+      "to": "カーテン",
+      "to-more": "カーテン",
+      "to-search": "カーテン"
+    },
+    {
+      "from": "complexion",
+      "to": "かおいろ",
+      "to-more": "顔色",
+      "to-search": "顔色"
+    },
+    {
+      "from": "key; lock",
+      "to": "かぎ",
+      "to-more": "鍵",
+      "to-search": "鍵"
+    },
+    {
+      "from": "glass",
+      "to": "ガラス",
+      "to-more": "ガラス",
+      "to-search": "ガラス"
+    },
+    {
+      "from": "sightseeing",
+      "to": "かんこう",
+      "to-more": "観光",
+      "to-search": "観光"
+    },
+    {
+      "from": "cat food",
+      "to": "キャットフード",
+      "to-more": "キャットフード",
+      "to-search": "キャットフード"
+    },
+    {
+      "from": "the police",
+      "to": "けいさつ",
+      "to-more": "警察",
+      "to-search": "警察"
+    },
+    {
+      "from": "front door; entrance",
+      "to": "げんかん",
+      "to-more": "玄関",
+      "to-search": "玄関"
+    },
+    {
+      "from": "Statue of Liberty",
+      "to": "じゅうのめがみ",
+      "to-more": "自由の女神",
+      "to-search": "自由の女神"
+    },
+    {
+      "from": "shopping mall",
+      "to": "ショッピングモール",
+      "to-more": "ショッピングモール",
+      "to-search": "ショッピングモール"
+    },
+    {
+      "from": "snack",
+      "to": "スナック",
+      "to-more": "スナック",
+      "to-search": "スナック"
+    },
+    {
+      "from": "throughout the world",
+      "to": "せかいじゅう",
+      "to-more": "世界中",
+      "to-search": "世界中"
+    },
+    {
+      "from": "type (n)",
+      "to": "タイプ",
+      "to-more": "タイプ",
+      "to-search": "タイプ"
+    },
+    {
+      "from": "diamond",
+      "to": "ダイヤモンド",
+      "to-more": "ダイヤモンド",
+      "to-search": "ダイヤモンド"
+    },
+    {
+      "from": "takoyaki museum",
+      "to": "たこやきミュージアム",
+      "to-more": "たこやきミュージアム",
+      "to-search": "たこやきミュージアム"
+    },
+    {
+      "from": "dating spot",
+      "to": "デートスポット",
+      "to-more": "デートスポット",
+      "to-search": "デートスポット"
+    },
+    {
+      "from": "theme park",
+      "to": "テーマパーク",
+      "to-more": "テーマパーク",
+      "to-search": "テーマパーク"
+    },
+    {
+      "from": "channel",
+      "to": "チャンネル",
+      "to-more": "チャンネル",
+      "to-search": "チャンネル"
+    },
+    {
+      "from": "piggy bank; savings box",
+      "to": "ちょきんばこ",
+      "to-more": "貯金箱",
+      "to-search": "貯金箱"
+    },
+    {
+      "from": "a drive",
+      "to": "ドライブ",
+      "to-more": "ドライブ",
+      "to-search": "ドライブ"
+    },
+    {
+      "from": "baggage",
+      "to": "にもつ",
+      "to-more": "荷物",
+      "to-search": "荷物"
+    },
+    {
+      "from": "stuffed toy",
+      "to": "ぬいぐるみ",
+      "to-more": "ぬいぐるみ",
+      "to-search": "ぬいぐるみ"
+    },
+    {
+      "from": "box",
+      "to": "はこ",
+      "to-more": "はこ",
+      "to-search": "はこ"
+    },
+    {
+      "from": "expectation (suffix)",
+      "to": "〜はず",
+      "to-more": "はず",
+      "to-search": "はず"
+    },
+    {
+      "from": "BART",
+      "to": "バート",
+      "to-more": "バート",
+      "to-search": "バート"
+    },
+    {
+      "from": "monologue; speaking to oneself",
+      "to": "ひとりごと",
+      "to-more": "独り言",
+      "to-search": "独り言"
+    },
+    {
+      "from": "atmosphere",
+      "to": "ふんいき",
+      "to-more": "雰囲気",
+      "to-search": "雰囲気"
+    },
+    {
+      "from": "crib",
+      "to": "ベビーベッド",
+      "to-more": "ベビーベッド",
+      "to-search": "ベビーベッド"
+    },
+    {
+      "from": "surroundings",
+      "to": "まわり",
+      "to-more": "回り",
+      "to-search": "回り"
+    },
+    {
+      "from": "gate; door",
+      "to": "もん",
+      "to-more": "門",
+      "to-search": "門"
+    },
+    {
+      "from": "Rainbow Bridge",
+      "to": "レインボーブリッジ",
+      "to-more": "レインボーブリッジ",
+      "to-search": "レインボーブリッジ"
+    },
+    {
+      "from": "leisure",
+      "to": "レジャー",
+      "to-more": "レジャー",
+      "to-search": "レジャー"
+    },
+    {
+      "from": "night view",
+      "to": "やけい",
+      "to-more": "夜景",
+      "to-search": "夜景"
+    },
+    {
+      "from": "(finger) ring",
+      "to": "ゆびわ",
+      "to-more": "指輪",
+      "to-search": "指輪"
+    },
+    {
+      "from": "someone hides (intransitive)",
+      "to": "かくれる",
+      "to-more": "隠れる",
+      "to-search": "隠れる"
+    },
+    {
+      "from": "make a (phone call)",
+      "to": "かける",
+      "to-more": "かける",
+      "to-search": "かける"
+    },
+    {
+      "from": "something is broken (intransitive)",
+      "to": "こわれる",
+      "to-more": "壊れる",
+      "to-search": "壊れる"
+    },
+    {
+      "from": "catch; arrest someone (transitive)",
+      "to": "つかまえる",
+      "to-more": "捕まえる",
+      "to-search": "捕まえる"
+    },
+    {
+      "from": "(the music) plays",
+      "to": "ながれる",
+      "to-more": "流れる",
+      "to-search": "流れる"
+    },
+    {
+      "from": "something opens (intransitive)",
+      "to": "あく",
+      "to-more": "開く",
+      "to-search": "あく"
+    },
+    {
+      "from": "(phone call) is taken (intransitive)",
+      "to": "かかる",
+      "to-more": "掛かる",
+      "to-search": "かかる"
+    },
+    {
+      "from": "hide something (transitive)",
+      "to": "かくす",
+      "to-more": "隠す",
+      "to-search": "隠す"
+    },
+    {
+      "from": "something shuts; closes (intransitive)",
+      "to": "しまる",
+      "to-more": "閉まる",
+      "to-search": "閉まる"
+    },
+    {
+      "from": "spend; pass",
+      "to": "すごす",
+      "to-more": "過ごす",
+      "to-search": "過ごす"
+    },
+    {
+      "from": "let; take something out (transitive)",
+      "to": "だす",
+      "to-more": "出す",
+      "to-search": "出す"
+    },
+    {
+      "from": "something is caught, arrested (intransitive)",
+      "to": "つかまる",
+      "to-more": "捕まる",
+      "to-search": "捕まる"
+    },
+    {
+      "from": "something turns on (intransitive)",
+      "to": "つく",
+      "to-more": "付く",
+      "to-search": "付く"
+    },
+    {
+      "from": "help (someone to do)",
+      "to": "てつだう",
+      "to-more": "手伝う",
+      "to-search": "手伝う"
+    },
+    {
+      "from": "lose something (transitive)",
+      "to": "なくす",
+      "to-more": "無くす",
+      "to-search": "無くす"
+    },
+    {
+      "from": "some is lost, missing (intransitive)",
+      "to": "なくなる",
+      "to-more": "無くなる",
+      "to-search": "無くなる"
+    },
+    {
+      "from": "set (up)",
+      "to": "セットする",
+      "to-more": "セットする",
+      "to-search": "セットする"
+    },
+    {
+      "from": "strange; odd (not へん)",
+      "to": "おかしい",
+      "to-more": "可笑しい",
+      "to-search": "可笑しい"
+    },
+    {
+      "from": "fearfully; timidly",
+      "to": "おそるおそる",
+      "to-more": "恐る恐る",
+      "to-search": "恐る恐る"
+    },
+    {
+      "from": "fairly; pretty",
+      "to": "けっこう",
+      "to-more": "結構",
+      "to-search": "結構"
+    },
+    {
+      "from": "somewhat; kind of",
+      "to": "なんだか",
+      "to-more": "何だか",
+      "to-search": "何だか"
+    },
+    {
+      "from": "(particle) within time period or without/instead",
+      "to": "で",
+      "to-more": "で",
+      "to-search": "朝ごはんをしないで"
+    },
+    {
+      "from": "(particle) whenever, when, or if",
+      "to": "と",
+      "to-more": "と",
+      "to-search": "行くと"
+    },
+    {
+      "from": "only (colloquial)",
+      "to": "ばっかり",
+      "to-more": "ばっかり",
+      "to-search": "ばっかり"
+    },
+    {
+      "from": "like this; of this sort",
+      "to": "こういう",
+      "to-more": "こう言う",
+      "to-search": "こう言う"
+    },
+    {
+      "from": "sorry (abbreviated)",
+      "to": "ごめん",
+      "to-more": "ごめん",
+      "to-search": "ごめん"
+    },
+    {
+      "from": "small, tiny",
+      "to": "ちいさな",
+      "to-more": "小さな",
+      "to-search": "小さな"
+    },
+    {
+      "from": "resembling (suffix)",
+      "to": "〜みたい",
+      "to-more": "〜みたい",
+      "to-search": "〜みたい"
+    },
+    {
+      "from": "a bit more",
+      "to": "もうすこし",
+      "to-more": "もう少し",
+      "to-search": "もう少し"
+    },
+    {
+      "from": "seeming, worthy (suffix)",
+      "to": "〜らしい",
+      "to-more": "〜らしい",
+      "to-search": "〜らしい"
+    },
+    {
+      "from": "meow (single sound)",
+      "to": "ニャーオ",
+      "to-more": "ニャーオ",
+      "to-search": "ニャーオ"
+    },
+    {
+      "from": "meow; mew, mew",
+      "to": "ニャーニャー",
+      "to-more": "ニャーニャー",
+      "to-search": "ニャーニャー"
+    },
+    {
+      "from": "soft and fluffy (no わ)",
+      "to": "ふかふか",
+      "to-more": "ふかふか",
+      "to-search": "ふかふか"
+    },
+    {
+      "from": "murmur; mumble; complain about something",
+      "to": "ブツブツ",
+      "to-more": "ブツブツ",
+      "to-search": "ブツブツ"
+    }
+  ]
+}
