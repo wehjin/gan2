@@ -424,21 +424,9 @@
       ]
     },
     {
-      "from": "{お台場}",
-      "to": [
-        "おだいば: district in Tokyo"
-      ]
-    },
-    {
       "from": "{だい}どころ: kitchen",
       "to": [
         "台"
-      ]
-    },
-    {
-      "from": "{台所}",
-      "to": [
-        "だいどころ: kitchen"
       ]
     },
     {
@@ -448,21 +436,9 @@
       ]
     },
     {
-      "from": "{台風}",
-      "to": [
-        "たいふう: typhoon"
-      ]
-    },
-    {
       "from": "いち{だい}: one vehicle",
       "to": [
         "台"
-      ]
-    },
-    {
-      "from": "{１台}",
-      "to": [
-        "いちだい: one vehicle"
       ]
     },
     {
@@ -472,21 +448,9 @@
       ]
     },
     {
-      "from": "{お台場}",
-      "to": [
-        "おだいば: district in Tokyo"
-      ]
-    },
-    {
       "from": "{ば}しょ: place",
       "to": [
         "場"
-      ]
-    },
-    {
-      "from": "{場所}",
-      "to": [
-        "ばしょ: place"
       ]
     },
     {
@@ -496,21 +460,9 @@
       ]
     },
     {
-      "from": "{市場}",
-      "to": [
-        "いちば: market"
-      ]
-    },
-    {
       "from": "うんどう{じょう}: sports field",
       "to": [
         "場"
-      ]
-    },
-    {
-      "from": "{運動場}",
-      "to": [
-        "うんどうじょう: sports field"
       ]
     },
     {
@@ -520,21 +472,9 @@
       ]
     },
     {
-      "from": "{結婚する}",
-      "to": [
-        "けっこんする: marry"
-      ]
-    },
-    {
       "from": "{けっ}こんしき: marriage ceremony",
       "to": [
         "婚"
-      ]
-    },
-    {
-      "from": "{結婚式}",
-      "to": [
-        "けっこんしき: marriage ceremony"
       ]
     },
     {
@@ -544,21 +484,9 @@
       ]
     },
     {
-      "from": "{結果}",
-      "to": [
-        "けっか: outcome"
-      ]
-    },
-    {
       "from": "{けつ}ろん: conclusion",
       "to": [
         "婚"
-      ]
-    },
-    {
-      "from": "{結論}",
-      "to": [
-        "けつろん: conclusion"
       ]
     },
     {
@@ -568,21 +496,9 @@
       ]
     },
     {
-      "from": "{結婚する}",
-      "to": [
-        "けっこんする: marry"
-      ]
-    },
-    {
       "from": "{こん}やくする: get engaged",
       "to": [
         "婚"
-      ]
-    },
-    {
-      "from": "{婚約する}",
-      "to": [
-        "こんやくする: get engaged"
       ]
     },
     {
@@ -592,21 +508,9 @@
       ]
     },
     {
-      "from": "{番組}",
-      "to": [
-        "ばんぐみ: tv program"
-      ]
-    },
-    {
       "from": "{くみ}あい: guild, union",
       "to": [
         "組"
-      ]
-    },
-    {
-      "from": "{組合}",
-      "to": [
-        "くみあい: guild, union"
       ]
     },
     {
@@ -616,21 +520,9 @@
       ]
     },
     {
-      "from": "{一年一組}",
-      "to": [
-        "いちねんいちくみ: one year one class"
-      ]
-    },
-    {
       "from": "{おん}せん: hot spring",
       "to": [
         "温"
-      ]
-    },
-    {
-      "from": "{温泉}",
-      "to": [
-        "おんせん: hot spring"
       ]
     },
     {
@@ -640,21 +532,9 @@
       ]
     },
     {
-      "from": "{温度}",
-      "to": [
-        "おんど: temperature"
-      ]
-    },
-    {
       "from": "き{おん}: air temperature",
       "to": [
         "温"
-      ]
-    },
-    {
-      "from": "{気温}",
-      "to": [
-        "きおん: air temperature"
       ]
     },
     {
@@ -664,21 +544,9 @@
       ]
     },
     {
-      "from": "{温かい}",
-      "to": [
-        "あたたかい: warm"
-      ]
-    },
-    {
       "from": "{け}す: turn off",
       "to": [
         "消"
-      ]
-    },
-    {
-      "from": "{消す}",
-      "to": [
-        "けす: turn off"
       ]
     },
     {
@@ -688,21 +556,9 @@
       ]
     },
     {
-      "from": "{消える}",
-      "to": [
-        "きえる: disappear"
-      ]
-    },
-    {
       "from": "しょう{か}: digestion",
       "to": [
         "消"
-      ]
-    },
-    {
-      "from": "{消化}",
-      "to": [
-        "しょうか: digestion"
       ]
     },
     {
@@ -712,21 +568,9 @@
       ]
     },
     {
-      "from": "{消火}",
-      "to": [
-        "しょうか: extinction"
-      ]
-    },
-    {
       "from": "{よ}やくする: make reservation",
       "to": [
         "予"
-      ]
-    },
-    {
-      "from": "{予約する}",
-      "to": [
-        "よやくする: make reservation"
       ]
     },
     {
@@ -736,21 +580,9 @@
       ]
     },
     {
-      "from": "{予定}",
-      "to": [
-        "よてい: schedule"
-      ]
-    },
-    {
       "from": "{よ}しゅうする: study for next class",
       "to": [
         "予"
-      ]
-    },
-    {
-      "from": "{予習する}",
-      "to": [
-        "よしゅうする: study for next class"
       ]
     },
     {
@@ -760,21 +592,9 @@
       ]
     },
     {
-      "from": "{予約する}",
-      "to": [
-        "よやくする: make reservation"
-      ]
-    },
-    {
       "from": "{やく}そくする: promise",
       "to": [
         "約"
-      ]
-    },
-    {
-      "from": "{約束する}",
-      "to": [
-        "やくそくする: promise"
       ]
     },
     {
@@ -784,21 +604,9 @@
       ]
     },
     {
-      "from": "{婚約する}",
-      "to": [
-        "こんやくする: get engaged"
-      ]
-    },
-    {
       "from": "{やく}さんじゅうぷん: approximately",
       "to": [
         "約"
-      ]
-    },
-    {
-      "from": "{約三十分}",
-      "to": [
-        "やくさんじゅうぷん: approximately"
       ]
     },
     {
@@ -808,21 +616,9 @@
       ]
     },
     {
-      "from": "{良かった}",
-      "to": [
-        "よかった: good"
-      ]
-    },
-    {
       "from": "{りょう}しん: conscience",
       "to": [
         "良"
-      ]
-    },
-    {
-      "from": "{良心}",
-      "to": [
-        "りょうしん: conscience"
       ]
     },
     {
@@ -832,21 +628,9 @@
       ]
     },
     {
-      "from": "{過ぎる}",
-      "to": [
-        "すぎる: surpass"
-      ]
-    },
-    {
       "from": "{す}ごす: pass time",
       "to": [
         "過"
-      ]
-    },
-    {
-      "from": "{過ごす}",
-      "to": [
-        "すごす: pass time"
       ]
     },
     {
@@ -856,21 +640,9 @@
       ]
     },
     {
-      "from": "{過去}",
-      "to": [
-        "かこ: past"
-      ]
-    },
-    {
       "from": "つう{か}: passing though, transit",
       "to": [
         "過"
-      ]
-    },
-    {
-      "from": "{通過}",
-      "to": [
-        "つうか: passing though, transit"
       ]
     },
     {
@@ -880,21 +652,9 @@
       ]
     },
     {
-      "from": "{門}",
-      "to": [
-        "もん: gate"
-      ]
-    },
-    {
       "from": "せい{もん}: main gate",
       "to": [
         "門"
-      ]
-    },
-    {
-      "from": "{正門}",
-      "to": [
-        "せいもん: main gate"
       ]
     },
     {
@@ -904,21 +664,9 @@
       ]
     },
     {
-      "from": "{入門}",
-      "to": [
-        "にゅうもん: initiation"
-      ]
-    },
-    {
       "from": "きん{もん}きょう: Golden Gate Bridge",
       "to": [
         "門"
-      ]
-    },
-    {
-      "from": "{金門橋}",
-      "to": [
-        "きんもんきょう: Golden Gate Bridge"
       ]
     },
     {
@@ -928,21 +676,9 @@
       ]
     },
     {
-      "from": "{待つ}",
-      "to": [
-        "まつ: wait"
-      ]
-    },
-    {
       "from": "{ま}ちあわせる: arrange a meeting",
       "to": [
         "待"
-      ]
-    },
-    {
-      "from": "{待ち合わせる}",
-      "to": [
-        "まちあわせる: arrange a meeting"
       ]
     },
     {
@@ -952,21 +688,9 @@
       ]
     },
     {
-      "from": "{招待する}",
-      "to": [
-        "しょうたいする: formally invite"
-      ]
-    },
-    {
       "from": "{き}たい: expectation, hope",
       "to": [
         "待"
-      ]
-    },
-    {
-      "from": "{期待}",
-      "to": [
-        "きたい: expectation, hope"
       ]
     },
     {
@@ -976,21 +700,9 @@
       ]
     },
     {
-      "from": "{他に}",
-      "to": [
-        "ほかに: in addition"
-      ]
-    },
-    {
       "from": "た{にん}: anyone",
       "to": [
         "他"
-      ]
-    },
-    {
-      "from": "{他人}",
-      "to": [
-        "たにん: anyone"
       ]
     },
     {
@@ -1000,21 +712,9 @@
       ]
     },
     {
-      "from": "{他国}",
-      "to": [
-        "たこく: other countries"
-      ]
-    },
-    {
       "from": "た{その}: et cetera",
       "to": [
         "他"
-      ]
-    },
-    {
-      "from": "{その他}",
-      "to": [
-        "たその: et cetera"
       ]
     },
     {
@@ -1024,21 +724,9 @@
       ]
     },
     {
-      "from": "{苦手}",
-      "to": [
-        "にがて: hard to handle"
-      ]
-    },
-    {
       "from": "にが{い}: bitter",
       "to": [
         "苦"
-      ]
-    },
-    {
-      "from": "{苦い}",
-      "to": [
-        "にがい: bitter"
       ]
     },
     {
@@ -1048,21 +736,9 @@
       ]
     },
     {
-      "from": "{苦しい}",
-      "to": [
-        "くるしい: agonizing"
-      ]
-    },
-    {
       "from": "く{つう}: pain and suffering",
       "to": [
         "苦"
-      ]
-    },
-    {
-      "from": "{苦痛}",
-      "to": [
-        "くつう: pain and suffering"
       ]
     },
     {
@@ -1072,21 +748,9 @@
       ]
     },
     {
-      "from": "{苦労}",
-      "to": [
-        "くろう: hardship"
-      ]
-    },
-    {
       "from": "じ{ゆう}: freedom",
       "to": [
         "由"
-      ]
-    },
-    {
-      "from": "{自由}",
-      "to": [
-        "じゆう: freedom"
       ]
     },
     {
@@ -1096,21 +760,9 @@
       ]
     },
     {
-      "from": "{自由の女神}",
-      "to": [
-        "じゆうのめがみ: Statue of Liberty"
-      ]
-    },
-    {
       "from": "り{ゆう}: reason",
       "to": [
         "由"
-      ]
-    },
-    {
-      "from": "{理由}",
-      "to": [
-        "りゆう: reason"
       ]
     },
     {
@@ -1120,21 +772,9 @@
       ]
     },
     {
-      "from": "{世界}",
-      "to": [
-        "せかい: world"
-      ]
-    },
-    {
       "from": "せ{かい}じゅう: throughout the world",
       "to": [
         "界"
-      ]
-    },
-    {
-      "from": "{世界中}",
-      "to": [
-        "せかいじゅう: throughout the world"
       ]
     },
     {
@@ -1144,33 +784,15 @@
       ]
     },
     {
-      "from": "{方}",
-      "to": [
-        "ほう: side"
-      ]
-    },
-    {
       "from": "こちらの{かた}: this respected person",
       "to": [
         "方"
       ]
     },
     {
-      "from": "{こちらの方}",
-      "to": [
-        "こちらのかた: this respected person"
-      ]
-    },
-    {
       "from": "りょう{ほう}: both",
       "to": [
         "方"
-      ]
-    },
-    {
-      "from": "{両方}",
-      "to": [
-        "りょうほう: both"
       ]
     }
   ]
