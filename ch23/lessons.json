@@ -418,379 +418,379 @@
   ],
   "cloze": [
     {
-      "from": "お{だい}ば: district in Tokyo",
+      "from": "お{だい}ば",
       "to": [
         "台"
       ]
     },
     {
-      "from": "{だい}どころ: kitchen",
+      "from": "{だい}どころ",
       "to": [
         "台"
       ]
     },
     {
-      "from": "{たい}ふう: typhoon",
+      "from": "{たい}ふう",
       "to": [
         "台"
       ]
     },
     {
-      "from": "いち{だい}: one vehicle",
+      "from": "いち{だい}",
       "to": [
         "台"
       ]
     },
     {
-      "from": "おだい{ば}: district in Tokyo",
+      "from": "おだい{ば}",
       "to": [
         "場"
       ]
     },
     {
-      "from": "{ば}しょ: place",
+      "from": "{ば}しょ",
       "to": [
         "場"
       ]
     },
     {
-      "from": "いち{ば}: market",
+      "from": "いち{ば}",
       "to": [
         "場"
       ]
     },
     {
-      "from": "うんどう{じょう}: sports field",
+      "from": "うんどう{じょう}",
       "to": [
         "場"
       ]
     },
     {
-      "from": "{けっ}こんする: marry",
+      "from": "{けっ}こんする",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "{けっ}こんしき: marriage ceremony",
+      "from": "{けっ}こんしき",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "{けっ}か: outcome",
+      "from": "{けっ}か",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "{けつ}ろん: conclusion",
+      "from": "{けつ}ろん",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "けっ{こん}する: marry",
+      "from": "けっ{こん}する",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "{こん}やくする: get engaged",
+      "from": "{こん}やくする",
       "to": [
         "婚"
       ]
     },
     {
-      "from": "ばん{ぐみ}: tv program",
+      "from": "ばん{ぐみ}",
       "to": [
         "組"
       ]
     },
     {
-      "from": "{くみ}あい: guild, union",
+      "from": "{くみ}あい",
       "to": [
         "組"
       ]
     },
     {
-      "from": "いちねんいち{くみ}: one year one class",
+      "from": "いちねんいち{くみ}",
       "to": [
         "組"
       ]
     },
     {
-      "from": "{おん}せん: hot spring",
+      "from": "{おん}せん",
       "to": [
         "温"
       ]
     },
     {
-      "from": "{おん}ど: temperature",
+      "from": "{おん}ど",
       "to": [
         "温"
       ]
     },
     {
-      "from": "き{おん}: air temperature",
+      "from": "き{おん}",
       "to": [
         "温"
       ]
     },
     {
-      "from": "{あたた}かい: warm",
+      "from": "{あたた}かい",
       "to": [
         "温"
       ]
     },
     {
-      "from": "{け}す: turn off",
+      "from": "{け}す",
       "to": [
         "消"
       ]
     },
     {
-      "from": "{き}える: disappear",
+      "from": "{き}える",
       "to": [
         "消"
       ]
     },
     {
-      "from": "しょう{か}: digestion",
+      "from": "しょう{か}",
       "to": [
         "消"
       ]
     },
     {
-      "from": "しょう{か}: extinction",
+      "from": "しょう{か}",
       "to": [
         "消"
       ]
     },
     {
-      "from": "{よ}やくする: make reservation",
+      "from": "{よ}やくする",
       "to": [
         "予"
       ]
     },
     {
-      "from": "{よ}てい: schedule",
+      "from": "{よ}てい",
       "to": [
         "予"
       ]
     },
     {
-      "from": "{よ}しゅうする: study for next class",
+      "from": "{よ}しゅうする",
       "to": [
         "予"
       ]
     },
     {
-      "from": "よ{やく}する: make reservation",
+      "from": "よ{やく}する",
       "to": [
         "約"
       ]
     },
     {
-      "from": "{やく}そくする: promise",
+      "from": "{やく}そくする",
       "to": [
         "約"
       ]
     },
     {
-      "from": "こん{やく}する: get engaged",
+      "from": "こん{やく}する",
       "to": [
         "約"
       ]
     },
     {
-      "from": "{やく}さんじゅうぷん: approximately",
+      "from": "{やく}さんじゅうぷん",
       "to": [
         "約"
       ]
     },
     {
-      "from": "{よ}かった: good",
+      "from": "{よ}かった",
       "to": [
         "良"
       ]
     },
     {
-      "from": "{りょう}しん: conscience",
+      "from": "{りょう}しん",
       "to": [
         "良"
       ]
     },
     {
-      "from": "{す}ぎる: surpass",
+      "from": "{す}ぎる",
       "to": [
         "過"
       ]
     },
     {
-      "from": "{す}ごす: pass time",
+      "from": "{す}ごす",
       "to": [
         "過"
       ]
     },
     {
-      "from": "{か}こ: past",
+      "from": "{か}こ",
       "to": [
         "過"
       ]
     },
     {
-      "from": "つう{か}: passing though, transit",
+      "from": "つう{か}",
       "to": [
         "過"
       ]
     },
     {
-      "from": "{もん}: gate",
+      "from": "{もん}",
       "to": [
         "門"
       ]
     },
     {
-      "from": "せい{もん}: main gate",
+      "from": "せい{もん}",
       "to": [
         "門"
       ]
     },
     {
-      "from": "にゅう{もん}: initiation",
+      "from": "にゅう{もん}",
       "to": [
         "門"
       ]
     },
     {
-      "from": "きん{もん}きょう: Golden Gate Bridge",
+      "from": "きん{もん}きょう",
       "to": [
         "門"
       ]
     },
     {
-      "from": "{ま}つ: wait",
+      "from": "{ま}つ",
       "to": [
         "待"
       ]
     },
     {
-      "from": "{ま}ちあわせる: arrange a meeting",
+      "from": "{ま}ちあわせる",
       "to": [
         "待"
       ]
     },
     {
-      "from": "しょう{たい}する: formally invite",
+      "from": "しょう{たい}する",
       "to": [
         "待"
       ]
     },
     {
-      "from": "{き}たい: expectation, hope",
+      "from": "{き}たい",
       "to": [
         "待"
       ]
     },
     {
-      "from": "ほか{に}: in addition",
+      "from": "ほか{に}",
       "to": [
         "他"
       ]
     },
     {
-      "from": "た{にん}: anyone",
+      "from": "た{にん}",
       "to": [
         "他"
       ]
     },
     {
-      "from": "た{こく}: other countries",
+      "from": "た{こく}",
       "to": [
         "他"
       ]
     },
     {
-      "from": "た{その}: et cetera",
+      "from": "た{その}",
       "to": [
         "他"
       ]
     },
     {
-      "from": "にが{て}: hard to handle",
+      "from": "にが{て}",
       "to": [
         "苦"
       ]
     },
     {
-      "from": "にが{い}: bitter",
+      "from": "にが{い}",
       "to": [
         "苦"
       ]
     },
     {
-      "from": "くる{しい}: agonizing",
+      "from": "くる{しい}",
       "to": [
         "苦"
       ]
     },
     {
-      "from": "く{つう}: pain and suffering",
+      "from": "く{つう}",
       "to": [
         "苦"
       ]
     },
     {
-      "from": "く{ろう}: hardship",
+      "from": "く{ろう}",
       "to": [
         "苦"
       ]
     },
     {
-      "from": "じ{ゆう}: freedom",
+      "from": "じ{ゆう}",
       "to": [
         "由"
       ]
     },
     {
-      "from": "じ{ゆう}のめがみ: Statue of Liberty",
+      "from": "じ{ゆう}のめがみ",
       "to": [
         "由"
       ]
     },
     {
-      "from": "り{ゆう}: reason",
+      "from": "り{ゆう}",
       "to": [
         "由"
       ]
     },
     {
-      "from": "せ{かい}: world",
+      "from": "せ{かい}",
       "to": [
         "界"
       ]
     },
     {
-      "from": "せ{かい}じゅう: throughout the world",
+      "from": "せ{かい}じゅう",
       "to": [
         "界"
       ]
     },
     {
-      "from": "{ほう}: side",
+      "from": "{ほう}",
       "to": [
         "方"
       ]
     },
     {
-      "from": "こちらの{かた}: this respected person",
+      "from": "こちらの{かた}",
       "to": [
         "方"
       ]
     },
     {
-      "from": "りょう{ほう}: both",
+      "from": "りょう{ほう}",
       "to": [
         "方"
       ]
