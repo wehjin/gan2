@@ -1197,7 +1197,7 @@
     {"from": "ちょきんばこは{broken}", "to": ["こわれた"]},
     {"from": "どろぼうを{catch}", "to": ["つかまえる"]},
     {"from": "どろぼうは{caught}", "to": ["つかまった"]},
-    {"from": "かぎを{will not lose}", "to": ["なくしない"]},
+    {"from": "かぎを{will not lose}", "to": ["なくさない"]},
     {"from": "かぎは{lost}", "to": ["なくなった"]},
     {"from": "まど{intentionally altered object}あけてあります", "to": ["が"]},
     {"from": "まどが{is intentionally open}", "to": ["あけてあります"]},
