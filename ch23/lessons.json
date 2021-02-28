@@ -1210,7 +1210,7 @@
     {"from": "勉強し{instead of}、映画を見ることにします。", "to": ["ないで"]},
     {"from": "おふろに入{about to be entering}います。", "to": ["ろうとして"]},
     {"from": "宿題{tried to do and could not}が、犬に宿題を食べちゃった。", "to": ["しようとした"]},
-    {"from": "寝{was about to when}、電話がかかってきた。", "to": ["もうとした間に"]},
+    {"from": "寝{was about to when}、電話がかかってきた。", "to": ["ようとした間に"]},
     {"from": "今年の夏はあつ{in my opinion}です。", "to": ["いみたい"]},
     {"from": "かんたん{in my opinion}。", "to": ["みたい"]},
     {"from": "犬{~similar to}猫です。", "to": ["みたいな"]},
