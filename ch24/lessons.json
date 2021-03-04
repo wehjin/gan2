@@ -1,0 +1,413 @@
+{
+  "level": 24,
+  "produce-listen": [
+    {
+      "from": "Edo period picture of everyday life",
+      "to": "うきよえ",
+      "to-more": "うき世え",
+      "to-search": "うき世え"
+    },
+    {
+      "from": "exercise (n)",
+      "to": "うんどう",
+      "to-more": "運動",
+      "to-search": "運動"
+    },
+    {
+      "from": "the Edo period",
+      "to": "えどじだい",
+      "to-more": "江戸時代",
+      "to-search": "江戸時代"
+    },
+    {
+      "from": "princess",
+      "to": "おひめさま",
+      "to-more": "お姫様",
+      "to-search": "お姫様"
+    },
+    {
+      "from": "the Kamakura period",
+      "to": "かまくらじだい",
+      "to-more": "鎌倉時代",
+      "to-search": "鎌倉時代"
+    },
+    {
+      "from": "noble; aristocrat",
+      "to": "きぞく",
+      "to-more": "貴族",
+      "to-search": "貴族"
+    },
+    {
+      "from": "feeling; mood",
+      "to": "きぶん",
+      "to-more": "気分",
+      "to-search": "気分"
+    },
+    {
+      "from": "archery",
+      "to": "きゅうどう",
+      "to-more": "弓道",
+      "to-search": "弓道"
+    },
+    {
+      "from": "the Tale of Genji",
+      "to": "げんじものがたり",
+      "to-more": "源氏物語",
+      "to-search": "源氏物語"
+    },
+    {
+      "from": "kendo;; Japanese fencing",
+      "to": "けんどう",
+      "to-more": "剣道",
+      "to-search": "剣道"
+    },
+    {
+      "from": "study; research",
+      "to": "けんきゅう",
+      "to-more": "研究",
+      "to-search": "研究"
+    },
+    {
+      "from": "club; union",
+      "to": "クラブ",
+      "to-more": "クラブ",
+      "to-search": "クラブ"
+    },
+    {
+      "from": "samurai; warrior",
+      "to": "さむらい",
+      "to-more": "侍",
+      "to-search": "侍"
+    },
+    {
+      "from": "era; period; age",
+      "to": "じだい",
+      "to-more": "時代",
+      "to-search": "時代"
+    },
+    {
+      "from": "week",
+      "to": "しゅう",
+      "to-more": "週",
+      "to-search": "週"
+    },
+    {
+      "from": "Confucianism",
+      "to": "じゅきょう",
+      "to-more": "儒教",
+      "to-search": "儒教"
+    },
+    {
+      "from": "trade; business",
+      "to": "しょうばい",
+      "to-more": "商売",
+      "to-search": "商売"
+    },
+    {
+      "from": "merchant; tradesman",
+      "to": "しょうにん",
+      "to-more": "商人",
+      "to-search": "商人"
+    },
+    {
+      "from": "character; personality",
+      "to": "せいかく",
+      "to-more": "性格",
+      "to-search": "性格"
+    },
+    {
+      "from": "war",
+      "to": "せんそう",
+      "to-more": "戦争",
+      "to-search": "戦争"
+    },
+    {
+      "from": "Zen Buddhism",
+      "to": "ぜんぶっきょう",
+      "to-more": "禅仏教",
+      "to-search": "禅仏教"
+    },
+    {
+      "from": "power",
+      "to": "ちから",
+      "to-more": "力",
+      "to-search": "力"
+    },
+    {
+      "from": "in the middle of; the middle period",
+      "to": "ちゅうき",
+      "to-more": "中期",
+      "to-search": "中期"
+    },
+    {
+      "from": "discussion",
+      "to": "ディスカッション",
+      "to-more": "ディスカッション",
+      "to-search": "ディスカッション"
+    },
+    {
+      "from": "theme",
+      "to": "テーマ",
+      "to-more": "テーマ",
+      "to-search": "テーマ"
+    },
+    {
+      "from": "emperor",
+      "to": "てんのう",
+      "to-more": "天皇",
+      "to-search": "天皇"
+    },
+    {
+      "from": "the Imperial Family",
+      "to": "てんのうけ",
+      "to-more": "天皇家",
+      "to-search": "天皇家"
+    },
+    {
+      "from": "Shogun Tokugawa",
+      "to": "とくがわしょうぐん",
+      "to-more": "徳川将軍",
+      "to-search": "徳川将軍"
+    },
+    {
+      "from": "topic",
+      "to": "トピック",
+      "to-more": "トピック",
+      "to-search": "トピック"
+    },
+    {
+      "from": "beginning",
+      "to": "はじまり",
+      "to-more": "始まり",
+      "to-search": "始まり"
+    },
+    {
+      "from": "Hikaru Genji",
+      "to": "ひかるげんじ",
+      "to-more": "ひかるげんじ",
+      "to-search": "ひかるげんじ"
+    },
+    {
+      "from": "martial arts",
+      "to": "ぶどう",
+      "to-more": "武道",
+      "to-search": "武道"
+    },
+    {
+      "from": "the Heian period",
+      "to": "へいあんじだい",
+      "to-more": "平安時代",
+      "to-search": "平安時代"
+    },
+    {
+      "from": "peace",
+      "to": "へいわ",
+      "to-more": "平和",
+      "to-search": "平和"
+    },
+    {
+      "from": "Japanese poem (of 31 syllables)",
+      "to": "わか",
+      "to-more": "和歌",
+      "to-search": "和歌"
+    },
+    {
+      "from": "long for; be attracted by",
+      "to": "（〜に）あこがれる",
+      "to-more": "憧れる",
+      "to-search": "に憧れる"
+    },
+    {
+      "from": "be born",
+      "to": "うまれる",
+      "to-more": "生まれる",
+      "to-search": "生まれる"
+    },
+    {
+      "from": "decide something",
+      "to": "（を）きめる",
+      "to-more": "決める",
+      "to-search": "決める"
+    },
+    {
+      "from": "check; examine",
+      "to": "しらべる",
+      "to-more": "調べる",
+      "to-search": "調べる"
+    },
+    {
+      "from": "love",
+      "to": "あいす",
+      "to-more": "愛す",
+      "to-search": "愛す"
+    },
+    {
+      "from": "earn; make money",
+      "to": "かせぐ",
+      "to-more": "稼ぐ",
+      "to-search": "稼ぐ"
+    },
+    {
+      "from": "kill",
+      "to": "ころす",
+      "to-more": "殺す",
+      "to-search": "殺す"
+    },
+    {
+      "from": "something continues",
+      "to": "（が）つづく",
+      "to-more": "続く",
+      "to-search": "続く"
+    },
+    {
+      "from": "someone avoids; escapes",
+      "to": "（が）にげる",
+      "to-more": "逃げる",
+      "to-search": "逃げる"
+    },
+    {
+      "from": "honorific for eat and drink",
+      "to": "めしあがる",
+      "to-more": "召し上がる",
+      "to-search": "召し上がる"
+    },
+    {
+      "from": "call; invoke name",
+      "to": "よぶ",
+      "to-more": "呼ぶ",
+      "to-search": "呼ぶ"
+    },
+    {
+      "from": "exercise (v)",
+      "to": "うんどうする",
+      "to-more": "運動する",
+      "to-search": "運動する"
+    },
+    {
+      "from": "be disappointed with",
+      "to": "（〜に）がっかりする",
+      "to-more": "がっかりする",
+      "to-search": "にがっかりする"
+    },
+    {
+      "from": "fall in love",
+      "to": "こいをする",
+      "to-more": "恋をする",
+      "to-search": "恋をする"
+    },
+    {
+      "from": "exchange",
+      "to": "こうかんする",
+      "to-more": "交換する",
+      "to-search": "交換する"
+    },
+    {
+      "from": "present; make a presentation",
+      "to": "はっぴょうする",
+      "to-more": "発表する",
+      "to-search": "発表する"
+    },
+    {
+      "from": "easy (on, with); soft (on, with)",
+      "to": "あまい",
+      "to-more": "甘い",
+      "to-search": "甘い"
+    },
+    {
+      "from": "realistic; pragmatic",
+      "to": "げんじつてき",
+      "to-more": "現実的",
+      "to-search": "現実的"
+    },
+    {
+      "from": "prosperous; flourishing; thriving",
+      "to": "さかん",
+      "to-more": "盛ん",
+      "to-search": "盛ん"
+    },
+    {
+      "from": "peaceful",
+      "to": "へいわ",
+      "to-more": "平和",
+      "to-search": "平和な"
+    },
+    {
+      "from": "sufficiently",
+      "to": "しっかり",
+      "to-more": "確り",
+      "to-search": "確り"
+    },
+    {
+      "from": "too loose",
+      "to": "あますぎる",
+      "to-more": "甘すぎる",
+      "to-search": "甘すぎる"
+    },
+    {
+      "from": "feeling good; being happy",
+      "to": "いいきぶん",
+      "to-more": "いい気分",
+      "to-search": "いい気分"
+    },
+    {
+      "from": "when it comes to the point",
+      "to": "いざ",
+      "to-more": "いざ",
+      "to-search": "いざ"
+    },
+    {
+      "from": "leave home (someone else, humble)",
+      "to": "おでかけになる",
+      "to-more": "お出かけになる",
+      "to-search": "お出かけになる"
+    },
+    {
+      "from": "manly; masculine",
+      "to": "おとこらしい",
+      "to-more": "男らしい",
+      "to-search": "男らしい"
+    },
+    {
+      "from": "That is exactly right",
+      "to": "そのとおり",
+      "to-more": "その通り",
+      "to-search": "そのとおり"
+    },
+    {
+      "from": "Well, I guess that is right",
+      "to": "まあ、それはそうですよね。",
+      "to-more": "まあ、それはそうですよね。",
+      "to-search": "まあ、それはそうですよね。"
+    },
+    {
+      "from": "if, when, after (elective)",
+      "to": "〜たら",
+      "to-more": "たら",
+      "to-search": "たら"
+    },
+    {
+      "from": "at least a dream",
+      "to": "ゆめぐらい",
+      "to-more": "夢ぐらい",
+      "to-search": "夢ぐらい"
+    },
+    {
+      "from": "this type of invocation",
+      "to": "よぶなんて",
+      "to-more": "呼ぶなんて",
+      "to-search": "呼ぶなんて"
+    },
+    {
+      "from": "like (similar to, adverb)",
+      "to": "みたいに",
+      "to-more": "みたいに",
+      "to-search": "みたいに"
+    },
+    {
+      "from": "is not appropriate (cannot do)",
+      "to": "〜わけにはいかない",
+      "to-more": "〜わけにはいかない",
+      "to-search": "〜わけにはいかない"
+    }
+  ]
+}
