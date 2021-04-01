@@ -1,0 +1,257 @@
+{
+  "level": 25,
+  "produce-listen": [
+    {
+      "from": "how to get to (a place)",
+      "to": "いきかた",
+      "to-more": "行き方",
+      "to-search": "行き方"
+    },
+    {
+      "from": "intercom",
+      "to": "インターホン",
+      "to-more": "インターホン",
+      "to-search": "インターホン"
+    },
+    {
+      "from": "lack of exercise",
+      "to": "うんどうぶそく",
+      "to-more": "運動不足",
+      "to-search": "運動不足"
+    },
+    {
+      "from": "pedestrian crossing",
+      "to": "おうだんほどう",
+      "to-more": "横断歩道",
+      "to-search": "横断歩道"
+    },
+    {
+      "from": "main street",
+      "to": "おおどうり",
+      "to-more": "大通り",
+      "to-search": "大通り"
+    },
+    {
+      "from": "corner",
+      "to": "かど",
+      "to-more": "角",
+      "to-search": "かど"
+    },
+    {
+      "from": "caretaker; manager (apartment)",
+      "to": "かんりにん",
+      "to-more": "管理人",
+      "to-search": "管理人"
+    },
+    {
+      "from": "health",
+      "to": "けんこう",
+      "to-more": "健康",
+      "to-search": "健康"
+    },
+    {
+      "from": "crossing; intersection",
+      "to": "こうさてん",
+      "to-more": "交差点",
+      "to-search": "交差点"
+    },
+    {
+      "from": "traffic accident",
+      "to": "こうつうじこ",
+      "to-more": "交通事故",
+      "to-search": "交通事故"
+    },
+    {
+      "from": "police box",
+      "to": "こうばん",
+      "to-more": "交番",
+      "to-search": "交番"
+    },
+    {
+      "from": "trash; garbage",
+      "to": "ごみ",
+      "to-more": "塵",
+      "to-search": "ごみ"
+    },
+    {
+      "from": "accident",
+      "to": "じこ",
+      "to-more": "事故",
+      "to-search": "事故"
+    },
+    {
+      "from": "employment",
+      "to": "しゅうしょく",
+      "to-more": "就職",
+      "to-search": "就職"
+    },
+    {
+      "from": "traffic lights; signal",
+      "to": "しんごう",
+      "to-more": "信号",
+      "to-search": "信号"
+    },
+    {
+      "from": "entrance, area of",
+      "to": "いりぐちのところ",
+      "to-more": "入口の所",
+      "to-search": "入口の所"
+    },
+    {
+      "from": "writing, moment of",
+      "to": "かいたところ",
+      "to-more": "書いたところ",
+      "to-search": "書いたところ"
+    },
+    {
+      "from": "pianist",
+      "to": "ピアニスト",
+      "to-more": "ピアニスト",
+      "to-search": "ピアニスト"
+    },
+    {
+      "from": "left (direction)",
+      "to": "ひだり",
+      "to-more": "左",
+      "to-search": "左"
+    },
+    {
+      "from": "bakery",
+      "to": "ベーカリー",
+      "to-more": "ベーカリー",
+      "to-search": "ベーカリー"
+    },
+    {
+      "from": "right (direction)",
+      "to": "みぎ",
+      "to-more": "右",
+      "to-search": "右"
+    },
+    {
+      "from": "the third (after the second)",
+      "to": "みっつめ",
+      "to-more": "三つ目",
+      "to-search": "三つ目"
+    },
+    {
+      "from": "Yamanote (Loop) Line",
+      "to": "やまのてせん",
+      "to-more": "山手線",
+      "to-search": "山手線"
+    },
+    {
+      "from": "change (vehicle); transfer",
+      "to": "のりかえる",
+      "to-more": "乗り換える",
+      "to-search": "乗り換える"
+    },
+    {
+      "from": "divide; separate something",
+      "to": "わける",
+      "to-more": "分ける",
+      "to-search": "分ける"
+    },
+    {
+      "from": "(quantity) is consumed",
+      "to": "かかる",
+      "to-more": "掛かる",
+      "to-search": "かかる"
+    },
+    {
+      "from": "make a noise",
+      "to": "さわぐ",
+      "to-more": "騒ぐ",
+      "to-search": "騒ぐ"
+    },
+    {
+      "from": "move (house); change residence",
+      "to": "ひっこす",
+      "to-more": "引っ越す",
+      "to-search": "引っ越す"
+    },
+    {
+      "from": "turn; make a turn",
+      "to": "まがる",
+      "to-more": "曲がる",
+      "to-search": "曲がる"
+    },
+    {
+      "from": "cross; go across something",
+      "to": "わたる",
+      "to-more": "渡る",
+      "to-search": "渡る"
+    },
+    {
+      "from": "complete something",
+      "to": "かんせいする",
+      "to-more": "完成する",
+      "to-search": "完成する"
+    },
+    {
+      "from": "nagging; faultfinding",
+      "to": "くちうるさい",
+      "to-more": "口煩い",
+      "to-search": "口煩い"
+    },
+    {
+      "from": "far from; in no hurry; not easily",
+      "to": "なかなか〜ない",
+      "to-more": "中々〜ない",
+      "to-search": "中々〜ない"
+    },
+    {
+      "from": "very; quite",
+      "to": "なかなか",
+      "to-more": "中々",
+      "to-search": "中々"
+    },
+    {
+      "from": "~don't do action (go)",
+      "to": "いくな",
+      "to-more": "行くな",
+      "to-search": "行くな"
+    },
+    {
+      "from": "~within time, count (once/year)",
+      "to": "一年に一回",
+      "to-more": "一年に一回",
+      "to-search": "一年に一回"
+    },
+    {
+      "from": "speak of the devil",
+      "to": "うわさをさればかげ",
+      "to-more": "噂をされば影",
+      "to-search": "噂をされば影"
+    },
+    {
+      "from": "be good for one's health",
+      "to": "けんこうにいい",
+      "to-more": "健康にいい",
+      "to-search": "健康にいい"
+    },
+    {
+      "from": "it can't be helped",
+      "to": "しかたがない",
+      "to-more": "仕方がない",
+      "to-search": "仕方がない"
+    },
+    {
+      "from": "any place can become home",
+      "to": "すめばみやこ",
+      "to-more": "住めば都",
+      "to-search": "住めば都"
+    },
+    {
+      "from": "tis true, but",
+      "to": "それはそうだけど",
+      "to-more": "それはそうだけど",
+      "to-search": "それはそうだけど"
+    },
+    {
+      "from": "sound of an intercom",
+      "to": "ピンポーン",
+      "to-more": "ピンポーン",
+      "to-search": "ピンポーン"
+    }
+  ]
+}
