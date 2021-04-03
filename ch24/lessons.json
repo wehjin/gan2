@@ -1155,13 +1155,13 @@
         "じ"
       ]
     },
-    {"from": "まどが開{if opened}ら、閉めてあいてください。", "to": ["いていた"]},
+    {"from": "まどが開{if opened}ら、閉めておいてください。", "to": ["いていた"]},
     {"from": "買い物に行{if going}ら、ぼくの車でつれて行ってあげる。", "to": ["くな"]},
     {"from": "今日試験を受けてい{if took place}ら、ぜんぜんできなかったと思う。", "to": ["た"]},
     {"from": "五時にな{after becoming}ら、この門が閉まります。", "to": ["った"]},
     {"from": "マーケットに行{after going this one time}ら、閉まっていた。", "to": ["った"]},
-    {"from": "遊{to play}わけにいかない", "to": ["ぶ"]},
-    {"from": "食べない{is not appropriate}", "to": ["わけにいかない"]},
+    {"from": "遊{to play}わけにはいかない", "to": ["ぶ"]},
+    {"from": "食べない{is not appropriate}", "to": ["わけにはいかない"]},
     {"from": "おひめ様、まどを{respect, shall we close}か", "to": ["おしめになろう"]},
     {"from": "おひめ様、{respect, do not start}いただきますか", "to": ["おはじめにならないで"]},
     {"from": "スーパーマン{like}強くなりたい。", "to": ["みたいに"]},
