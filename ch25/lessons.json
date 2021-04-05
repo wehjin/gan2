@@ -219,9 +219,9 @@
     },
     {
       "from": "speak of the devil",
-      "to": "うわさをさればかげ",
-      "to-more": "噂をされば影",
-      "to-search": "噂をされば影"
+      "to": "うわさをすればかげ",
+      "to-more": "噂をすれば影",
+      "to-search": "噂をすれば影"
     },
     {
       "from": "be good for one's health",
