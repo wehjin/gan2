@@ -1,0 +1,263 @@
+{
+  "level": 26,
+  "produce-listen": [
+    {
+      "from": "10 years or more",
+      "to": "いじょう",
+      "to-more": "以上",
+      "to-search": "以上"
+    },
+    {
+      "from": "honorific expressions",
+      "to": "けいご",
+      "to-more": "敬語",
+      "to-search": "敬語"
+    },
+    {
+      "from": "(an) individual",
+      "to": "こじん",
+      "to-more": "個人",
+      "to-search": "個人"
+    },
+    {
+      "from": "one's own house",
+      "to": "じたく",
+      "to-more": "自宅",
+      "to-search": "自宅"
+    },
+    {
+      "from": "guidance; instruction; teaching",
+      "to": "しどう",
+      "to-more": "指導",
+      "to-search": "指導"
+    },
+    {
+      "from": "many years",
+      "to": "ながねん",
+      "to-more": "長年",
+      "to-search": "長年"
+    },
+    {
+      "from": "every day; daily",
+      "to": "にちじょう",
+      "to-more": "日常",
+      "to-search": "日常"
+    },
+    {
+      "from": "pronunciation",
+      "to": "はつおん",
+      "to-more": "発音",
+      "to-search": "発音"
+    },
+    {
+      "from": "lesson",
+      "to": "レッスン",
+      "to-more": "レッスン",
+      "to-search": "レッスン"
+    },
+    {
+      "from": "step up; enter house",
+      "to": "あがる",
+      "to-more": "上がる",
+      "to-search": "上がる"
+    },
+    {
+      "from": "get nervous",
+      "to": "あがる",
+      "to-more": "あがる",
+      "to-search": "あがる"
+    },
+    {
+      "from": "humble do",
+      "to": "いたす",
+      "to-more": "いたす",
+      "to-search": "いたす"
+    },
+    {
+      "from": "humble eat+drink",
+      "to": "いただく",
+      "to-more": "いただく",
+      "to-search": "いただく"
+    },
+    {
+      "from": "respectful come+go",
+      "to": "いらっしゃる",
+      "to-more": "いらっしゃる",
+      "to-search": "いらっしゃる"
+    },
+    {
+      "from": "humble come+go(house, office), hear; visit",
+      "to": "うかがう",
+      "to-more": "伺う",
+      "to-search": "伺う"
+    },
+    {
+      "from": "respectful say",
+      "to": "おっしゃる",
+      "to-more": "おっしゃる",
+      "to-search": "おっしゃる"
+    },
+    {
+      "from": "humble exist(person)",
+      "to": "おる",
+      "to-more": "おる",
+      "to-search": "おる"
+    },
+    {
+      "from": "humble exist(thing)",
+      "to": "ござる",
+      "to-more": "ござる",
+      "to-search": "ござる"
+    },
+    {
+      "from": "respectful do",
+      "to": "なさる",
+      "to-more": "なさる",
+      "to-search": "なさる"
+    },
+    {
+      "from": "humble come+go(eg post office)",
+      "to": "まいる",
+      "to-more": "参る",
+      "to-search": "参る"
+    },
+    {
+      "from": "make a mistake",
+      "to": "まちがう",
+      "to-more": "間違う",
+      "to-search": "間違う"
+    },
+    {
+      "from": "respectful eat+drink",
+      "to": "めしあがる",
+      "to-more": "召し上がる",
+      "to-search": "召し上がる"
+    },
+    {
+      "from": "humble say",
+      "to": "もうす",
+      "to-more": "申す",
+      "to-search": "申す"
+    },
+    {
+      "from": "be modest; be reserved",
+      "to": "えんりょする",
+      "to-more": "遠慮する",
+      "to-search": "遠慮する"
+    },
+    {
+      "from": "open (store, restaurant)",
+      "to": "オープンする",
+      "to-more": "オープンする",
+      "to-search": "オープンする"
+    },
+    {
+      "from": "humble see",
+      "to": "はいけんする",
+      "to-more": "拝見する",
+      "to-search": "拝見する"
+    },
+    {
+      "from": "natural",
+      "to": "しぜん",
+      "to-more": "自然",
+      "to-search": "自然"
+    },
+    {
+      "from": "hardly ever; never",
+      "to": "ほとんど（〜ない）",
+      "to-more": "ほとんど（〜ない）",
+      "to-search": "ほとんど（〜ない）"
+    },
+    {
+      "from": "just like; just as if",
+      "to": "まるで",
+      "to-more": "まるで",
+      "to-search": "まるで"
+    },
+    {
+      "from": "I am sorry to trouble you",
+      "to": "おそれいります",
+      "to-more": "恐れ入ります",
+      "to-search": "恐れ入ります"
+    },
+    {
+      "from": "humble meet",
+      "to": "おめにかかる",
+      "to-more": "お目にかかる",
+      "to-search": "お目にかかる"
+    },
+    {
+      "from": "That is very good; That's great, fine",
+      "to": "けっこうですね",
+      "to-more": "結構ですね",
+      "to-search": "結構ですね"
+    },
+    {
+      "from": "respectful see",
+      "to": "ごらんになる",
+      "to-more": "ご覧になる",
+      "to-search": "ご覧になる"
+    },
+    {
+      "from": "Let's (go) do our best",
+      "to": "さあ、がんばっていきましょう",
+      "to-more": "さあ、がんばって行きましょう",
+      "to-search": "さあ、がんばって行きましょう"
+    },
+    {
+      "from": "humble I'm sorry, rude",
+      "to": "しつれいいたしました",
+      "to-more": "失礼いたしました",
+      "to-search": "失礼いたしました"
+    },
+    {
+      "from": "respectful is",
+      "to": "でいらっしゃる",
+      "to-more": "でいらっしゃる",
+      "to-search": "でいらっしゃる"
+    },
+    {
+      "from": "humble is",
+      "to": "でござる",
+      "to-more": "でござる",
+      "to-search": "でござる"
+    },
+    {
+      "from": "humble thank you for cooperation",
+      "to": "どうかよろしくお願いいたします",
+      "to-more": "どうかよろしくお願いいたします",
+      "to-search": "どうかよろしくお願いいたします"
+    },
+    {
+      "from": "Please step up.",
+      "to": "どうぞおあがりください",
+      "to-more": "どうぞお上がりください",
+      "to-search": "どうぞお上がりください"
+    },
+    {
+      "from": "be startled",
+      "to": "ハッとする",
+      "to-more": "ハッとする",
+      "to-search": "ハッとする"
+    },
+    {
+      "from": "have a lot of",
+      "to": "やまほどある",
+      "to-more": "山ほどある",
+      "to-search": "山ほどある"
+    },
+    {
+      "from": "a-ha-ha",
+      "to": "アハハ",
+      "to-more": "アハハ",
+      "to-search": "アハハ"
+    },
+    {
+      "from": "severely; relentlessly",
+      "to": "びしびし",
+      "to-more": "びしびし",
+      "to-search": "びしびし"
+    }
+  ]
+}
