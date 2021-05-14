@@ -908,6 +908,36 @@
       "to": [
         "たい"
       ]
-    }
+    },
+    {"from": "行く・来る、{respectful}", "to": ["いらっしゃる"]},
+    {"from": "いる、{respectful}", "to": ["いらっしゃる"]},
+    {"from": "ある、{respectful}", "to": ["おあになる"]},
+    {"from": "する、{respectful}", "to": ["なさる"]},
+    {"from": "言う、{respectful}", "to": ["おっしゃる"]},
+    {"from": "食べる・飲む、{respectful}", "to": ["めしあがる"]},
+    {"from": "見る、{respectful}", "to": ["ごらんになる"]},
+    {"from": "会う、{respectful}", "to": ["おあいになる"]},
+    {"from": "だ、{respectful}", "to": ["でいらっしゃる"]},
+    {"from": "聞く、{respectful}", "to": ["お聞きになる"]},
+    {"from": "行く・来る、{humble, in}", "to": ["うかがう"]},
+    {"from": "行く・来る、{humble, out}", "to": ["まいる"]},
+    {"from": "いる、{humble}", "to": ["おる"]},
+    {"from": "ある、{humble}", "to": ["ござる"]},
+    {"from": "する、{humble}", "to": ["いたす"]},
+    {"from": "言う、{humble}", "to": ["もうす"]},
+    {"from": "食べる・飲む、{humble}", "to": ["いただく"]},
+    {"from": "見る、{humble}", "to": ["はいけんする"]},
+    {"from": "会う、{humble}", "to": ["お目にかかる"]},
+    {"from": "だ、{humble}", "to": ["でござる"]},
+    {"from": "聞く、{humble}", "to": ["うかがう"]},
+    {"from": "社長のスペーちをお聞き{listened, respectful}か。", "to": ["になりました"]},
+    {"from": "先生は今日{is absent, respectful}です。", "to": ["お休み"]},
+    {"from": "{help, humble}しましょうか", "to": ["おてつだい"]},
+    {"from": "する、{respectful by conjugation}", "to": ["される"]},
+    {"from": "メーさんが{whether sang or not}知りません。", "to": ["歌ったかどうか"]},
+    {"from": "メーさん{particle}学生かどうか知りません。", "to": ["が"]},
+    {"from": "クラスが{whether difficult or not}しんぱいです。", "to": ["むずかしいかどうか"]},
+    {"from": "{will go or not, distinct}まだ知っていません。", "to": ["行くか行かないか"]},
+    {"from": "電車が{when arrives}知りたいです。", "to": ["いつつくか"]}
   ]
 }
