@@ -911,7 +911,7 @@
     },
     {"from": "行く・来る、{respectful}", "to": ["いらっしゃる"]},
     {"from": "いる、{respectful}", "to": ["いらっしゃる"]},
-    {"from": "ある、{respectful}", "to": ["おあになる"]},
+    {"from": "ある、{respectful}", "to": ["おありになる"]},
     {"from": "する、{respectful}", "to": ["なさる"]},
     {"from": "言う、{respectful}", "to": ["おっしゃる"]},
     {"from": "食べる・飲む、{respectful}", "to": ["めしあがる"]},
